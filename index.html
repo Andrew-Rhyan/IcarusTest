@@ -42,7 +42,6 @@ summary{cursor:pointer;padding:.4em 0}
 <div id="start">
   <p>Each page has its own soundscape. It loops for as long as you stay on the page, and shifts only when you turn it.</p>
   <button class="go" id="begin">Put on headphones and begin</button>
-  <p>Any layer without its own sound file falls back to a synthesized placeholder.</p>
 </div>
 <main id="text" aria-live="polite"></main>
 <nav>
@@ -51,9 +50,8 @@ summary{cursor:pointer;padding:.4em 0}
   <button class="go" id="next">Turn the page</button>
 </nav>
 <details>
-  <summary>Sounds</summary>
+  <summary>Volume</summary>
   <div class="row"><span>Volume</span><input type="range" id="vol" min="0" max="1" step=".01" value=".8" aria-label="Master volume"><span></span></div>
-  <div id="rows"></div>
 </details>
 <script>
 const NAMES={city:"City hum",mech:"Machinery",comms:"Comms crackle",crowd:"Crowd",music:"Neon music",club:"Club bass"};
@@ -94,17 +92,14 @@ club(){const o=mk(.35);osc("sine",52,o);lfo(2,.35,o.gain);return o}
 };
 function shuttle(){if(shuttleBuf){const s=ctx.createBufferSource();s.buffer=shuttleBuf;s.connect(master);s.start();return}const t=ctx.currentTime,s=src(nb(0)),f=filt("bandpass",300,3),g=mk(0);f.frequency.setValueAtTime(300,t);f.frequency.exponentialRampToValueAtTime(1400,t+3);f.frequency.exponentialRampToValueAtTime(250,t+7);g.gain.setValueAtTime(0,t);g.gain.linearRampToValueAtTime(.7,t+3);g.gain.linearRampToValueAtTime(0,t+7);chain(s,f,g,master);s.stop(t+7.2)}
 let shuttleBuf;
-function useBuf(k,ab,label){ctx.decodeAudioData(ab).then(buf=>{const l=layers[k];if(l.file)l.file.stop();l.synth.disconnect();const s=ctx.createBufferSource();s.buffer=buf;s.loop=true;s.connect(l.g);s.start();$("#n-"+k).textContent="Playing: "+label}).catch(()=>{$("#n-"+k).textContent="That file could not be read as audio."})}
-function loadFile(k,file){file.arrayBuffer().then(b=>useBuf(k,b,file.name))}
+function useBuf(k,ab,label){ctx.decodeAudioData(ab).then(buf=>{const l=layers[k];if(l.file)l.file.stop();l.synth.disconnect();const s=ctx.createBufferSource();s.buffer=buf;s.loop=true;s.connect(l.g);s.start()}).catch(()=>console.warn("Could not read "+label+" as audio"))}
 async function fetchSound(name){for(const e of["mp3","ogg","wav"]){try{const r=await fetch("sounds/"+name+"."+e);if(r.ok)return[await r.arrayBuffer(),"sounds/"+name+"."+e]}catch(_){}}return null}
 async function autoload(k){const f=await fetchSound(k);if(f)useBuf(k,f[0],f[1])}
 async function autoShuttle(){const f=await fetchSound("shuttle");if(f)ctx.decodeAudioData(f[0]).then(b=>shuttleBuf=b).catch(()=>{})}
-$("#rows").innerHTML=Object.entries(NAMES).map(([k,v])=>`<div class="row"><span>${v}</span><div class="bar"><i id="m-${k}"></i></div><label class="pick">Use my file<input type="file" accept="audio/*" data-k="${k}"></label><span class="fn" id="n-${k}">Placeholder sound</span></div>`).join("");
-$("#rows").addEventListener("change",e=>{const i=e.target;if(i.dataset.k&&i.files[0]&&ctx)loadFile(i.dataset.k,i.files[0])});
 $("#vol").addEventListener("input",e=>{if(master)master.gain.value=+e.target.value});
 function go(i){clearTimeout(tm);page=i;const p=P[i];$("#text").innerHTML=p.t;window.scrollTo(0,0);
 document.documentElement.style.setProperty("--glow",p.c);
-for(const k in NAMES){const v=p.m[k]||0;if(layers[k])layers[k].g.gain.setTargetAtTime(v,ctx.currentTime,.9);$("#m-"+k).style.width=Math.min(100,v*160)+"%"}
+for(const k in NAMES){const v=p.m[k]||0;if(layers[k])layers[k].g.gain.setTargetAtTime(v,ctx.currentTime,.9)}
 if(p.once)tm=setTimeout(shuttle,3000);
 $("#pos").textContent=(i+1)+" of "+P.length;$("#prev").disabled=i==0;$("#next").disabled=i==P.length-1;$("#next").textContent=i==P.length-1?"End of scene":"Turn the page"}
 $("#begin").onclick=()=>{ctx=new(window.AudioContext||window.webkitAudioContext)();master=ctx.createGain();master.gain.value=.8;master.connect(ctx.destination);
