@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Soundscape Reader</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&display=swap" rel="stylesheet">
+<style>
+@property --glow{syntax:"<color>";inherits:true;initial-value:#3aa5c9}
+:root{--bg:#f3eef6;--ink:#241b30;--dim:#6b5f7a;--accent:#b0245f;--mix:26%;--glow:#3aa5c9;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#100d18;--ink:#ece6f3;--dim:#9d92ad;--accent:#ff6fb0;--mix:42%}}
+:root[data-theme="dark"]{--bg:#100d18;--ink:#ece6f3;--dim:#9d92ad;--accent:#ff6fb0;--mix:42%}
+html{height:100%;scroll-padding-top:env(safe-area-inset-top,0px);background:radial-gradient(120% 80% at 50% 0%,color-mix(in srgb,var(--glow) var(--mix),var(--bg)),var(--bg) 75%) fixed;transition:--glow 2.8s ease}
+@media (prefers-reduced-motion:reduce){html{transition:none}}
+body{margin:0;min-height:100%;background:transparent;color:var(--ink);font:clamp(1.15rem,1rem + .6vw,1.35rem)/1.75 "Newsreader",Georgia,serif;display:flex;flex-direction:column}
+main{flex:1;width:100%;max-width:34rem;margin:0 auto;padding:3rem 1.25rem 2rem;box-sizing:border-box}
+main p{margin:0 0 1.1em}
+.who{margin:1.4em 0 .1em!important;text-transform:lowercase;font-variant:small-caps;letter-spacing:.09em;color:var(--accent);font-size:.9em}
+.who + p{margin-top:0}
+nav{position:sticky;bottom:0;display:flex;align-items:center;justify-content:space-between;gap:1rem;max-width:34rem;width:100%;margin:0 auto;padding:.9rem 1.25rem;box-sizing:border-box;background:linear-gradient(transparent,var(--bg) 40%)}
+button,.pick{font:inherit;font-size:.85em;color:var(--ink);background:transparent;border:1px solid var(--dim);border-radius:999px;padding:.45em 1.2em;cursor:pointer}
+button:disabled{opacity:.35;cursor:default}
+button.go{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+button:focus-visible,summary:focus-visible,.pick:focus-within{outline:2px solid var(--accent);outline-offset:3px}
+#pos{color:var(--dim);font-size:.8em}
+details{max-width:34rem;width:100%;margin:0 auto;padding:0 1.25rem 1rem;box-sizing:border-box;color:var(--dim);font-size:.8em}
+summary{cursor:pointer;padding:.4em 0}
+.row{display:grid;grid-template-columns:7.5rem 1fr auto;gap:.8rem;align-items:center;padding:.35rem 0}
+.bar{height:4px;background:color-mix(in srgb,var(--dim) 30%,transparent);border-radius:2px;overflow:hidden}
+.bar i{display:block;height:100%;width:0;background:var(--accent);transition:width 2.8s ease}
+.pick{font-size:.9em;padding:.15em .8em;position:relative;overflow:hidden}
+.pick input{position:absolute;inset:0;opacity:0;cursor:pointer}
+.fn{grid-column:1/-1;margin-top:-.3rem;font-size:.9em}
+#start{position:fixed;inset:0;z-index:5;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:1.2rem;padding:2rem;text-align:center;background:var(--bg)}
+#start[hidden]{display:none}
+#start p{max-width:26rem;margin:0;color:var(--dim)}
+.wrap{overflow-x:auto}
+</style>
+</head>
+<body>
+<div id="start">
+  <p>Each page has its own soundscape. It loops for as long as you stay on the page, and shifts only when you turn it.</p>
+  <button class="go" id="begin">Put on headphones and begin</button>
+  <p>Any layer without its own sound file falls back to a synthesized placeholder.</p>
+</div>
+<main id="text" aria-live="polite"></main>
+<nav>
+  <button id="prev">Back</button>
+  <span id="pos"></span>
+  <button class="go" id="next">Turn the page</button>
+</nav>
+<details>
+  <summary>Sounds</summary>
+  <div class="row"><span>Volume</span><input type="range" id="vol" min="0" max="1" step=".01" value=".8" aria-label="Master volume"><span></span></div>
+  <div id="rows"></div>
+</details>
+<script>
+const NAMES={city:"City hum",mech:"Machinery",comms:"Comms crackle",crowd:"Crowd",music:"Neon music",club:"Club bass"};
+const P=[
+{c:"#3aa5c9",m:{city:.55,mech:.35},t:`<p>Emerges from the darkness, he steps outside like a beast who just awoke. He looks toward the skyline, his optics whirls in, spotting Daedalus on one of the windows, leaning back in his chair, working something over on the monitor.</p>`},
+{c:"#6a76c9",m:{city:.35,mech:.2,comms:.35},t:`<p>They snap back as he begins walking toward the open garage.</p>
+<p class="who">HERACLES II (INTCOM)</p><p>Need a pick up big man?</p>
+<p class="who">416</p><p>No, I need you to go retrieve something.</p>
+<p class="who">INTCOM</p><p>Geolocation sent.</p>
+<p class="who">HERACLES II (INTCOM)</p><p>Come on, you know I don’t like to drive this thing…</p>
+<p>No answer. 416 hangs up the call.</p>`},
+{c:"#8a5fd0",m:{city:.45,crowd:.12},t:`<p class="who">HERACLES II (TRUCK SPEAKER)</p><p>I’m gonna crash into a bus full of pedestrians!</p>
+<p>416 turns away, walking toward the bustling entertainment district.</p>`},
+{c:"#b04fd0",m:{city:.35,crowd:.55,music:.4},once:1,t:`<p>Music blares as people in colorful outfits pour around him like a stone in a river. In the alley, in between neon slicked storefronts, a few junkies sit together, lighting up a crude pipe. A man in front of a food cart leans against an electrical pole, his hand holding a sort of flat bread wrap that looks like a poor excuse for a meal. A medical shuttle shoots past above the crowd, blaring horns as it goes.</p>`},
+{c:"#e0409a",m:{city:.25,crowd:.6,music:.45,club:.1},t:`<p>A few girls holding flyers wave them around, talking to passersby. One spots 416, she comes up to him.</p>
+<p class="who">TOWNCRIER</p><p>Handsome big man, want dance? Want girls?</p>
+<p>He ignores her as he continues walking.</p>
+<p class="who">TOWNCRIER</p><p>We have foods, drinks, whatever you want!</p>`},
+{c:"#ff4fa3",m:{crowd:.35,music:.3,club:.55},t:`<p>She speaks in a dialect foreign to this rock. 416 turns, he opens his hand as she gives him the flyer. “Midnight Club” It says, a horribly generic name that one would wonder what is even the point. The club behind her brandishes the name on an even bigger, repugnant sign, bright pink with a holographic woman dancing next to it. 416’s feet carry him toward it like they have a mind of their own.</p>`}
+];
+const $=s=>document.querySelector(s);
+let ctx,master,layers={},page=0,tm,NB={};
+function noiseBuf(brown){const n=ctx.sampleRate*4,b=ctx.createBuffer(1,n,ctx.sampleRate),d=b.getChannelData(0);let l=0;for(let i=0;i<n;i++){const w=Math.random()*2-1;if(brown){l=(l+.02*w)/1.02;d[i]=l*3.5}else d[i]=w*.5}return b}
+const nb=b=>NB[b]||(NB[b]=noiseBuf(b));
+function src(buf){const s=ctx.createBufferSource();s.buffer=buf;s.loop=true;s.start();return s}
+function mk(v){const g=ctx.createGain();g.gain.value=v;return g}
+function filt(t,f,q=1){const x=ctx.createBiquadFilter();x.type=t;x.frequency.value=f;x.Q.value=q;return x}
+function chain(...n){n.reduce((a,b)=>(a.connect(b),b))}
+function lfo(r,d,t){const o=ctx.createOscillator(),g=mk(d);o.frequency.value=r;o.connect(g).connect(t);o.start()}
+function osc(type,f,to,det=0){const x=ctx.createOscillator();x.type=type;x.frequency.value=f;x.detune.value=det;x.connect(to);x.start()}
+const SYN={
+city(){const o=mk(1.4);chain(src(nb(1)),filt("lowpass",500),o);return o},
+mech(){const o=mk(.5),lp=filt("lowpass",180);osc("sawtooth",55,lp);osc("sawtooth",82.5,lp);lfo(.3,.15,o.gain);lp.connect(o);return o},
+comms(){const o=mk(.12);chain(src(nb(0)),filt("bandpass",2800,2),o);lfo(9,.08,o.gain);return o},
+crowd(){const o=mk(1.6);chain(src(nb(0)),filt("bandpass",700,.7),o);lfo(.15,.4,o.gain);return o},
+music(){const o=mk(.22),lp=filt("lowpass",700);[110,130.8,164.8,220,329.6].forEach((f,i)=>osc("triangle",f,lp,i%2?6:-6));lfo(.07,300,lp.frequency);lp.connect(o);return o},
+club(){const o=mk(.35);osc("sine",52,o);lfo(2,.35,o.gain);return o}
+};
+function shuttle(){if(shuttleBuf){const s=ctx.createBufferSource();s.buffer=shuttleBuf;s.connect(master);s.start();return}const t=ctx.currentTime,s=src(nb(0)),f=filt("bandpass",300,3),g=mk(0);f.frequency.setValueAtTime(300,t);f.frequency.exponentialRampToValueAtTime(1400,t+3);f.frequency.exponentialRampToValueAtTime(250,t+7);g.gain.setValueAtTime(0,t);g.gain.linearRampToValueAtTime(.7,t+3);g.gain.linearRampToValueAtTime(0,t+7);chain(s,f,g,master);s.stop(t+7.2)}
+let shuttleBuf;
+function useBuf(k,ab,label){ctx.decodeAudioData(ab).then(buf=>{const l=layers[k];if(l.file)l.file.stop();l.synth.disconnect();const s=ctx.createBufferSource();s.buffer=buf;s.loop=true;s.connect(l.g);s.start();$("#n-"+k).textContent="Playing: "+label}).catch(()=>{$("#n-"+k).textContent="That file could not be read as audio."})}
+function loadFile(k,file){file.arrayBuffer().then(b=>useBuf(k,b,file.name))}
+async function fetchSound(name){for(const e of["mp3","ogg","wav"]){try{const r=await fetch("sounds/"+name+"."+e);if(r.ok)return[await r.arrayBuffer(),"sounds/"+name+"."+e]}catch(_){}}return null}
+async function autoload(k){const f=await fetchSound(k);if(f)useBuf(k,f[0],f[1])}
+async function autoShuttle(){const f=await fetchSound("shuttle");if(f)ctx.decodeAudioData(f[0]).then(b=>shuttleBuf=b).catch(()=>{})}
+$("#rows").innerHTML=Object.entries(NAMES).map(([k,v])=>`<div class="row"><span>${v}</span><div class="bar"><i id="m-${k}"></i></div><label class="pick">Use my file<input type="file" accept="audio/*" data-k="${k}"></label><span class="fn" id="n-${k}">Placeholder sound</span></div>`).join("");
+$("#rows").addEventListener("change",e=>{const i=e.target;if(i.dataset.k&&i.files[0]&&ctx)loadFile(i.dataset.k,i.files[0])});
+$("#vol").addEventListener("input",e=>{if(master)master.gain.value=+e.target.value});
+function go(i){clearTimeout(tm);page=i;const p=P[i];$("#text").innerHTML=p.t;window.scrollTo(0,0);
+document.documentElement.style.setProperty("--glow",p.c);
+for(const k in NAMES){const v=p.m[k]||0;if(layers[k])layers[k].g.gain.setTargetAtTime(v,ctx.currentTime,.9);$("#m-"+k).style.width=Math.min(100,v*160)+"%"}
+if(p.once)tm=setTimeout(shuttle,3000);
+$("#pos").textContent=(i+1)+" of "+P.length;$("#prev").disabled=i==0;$("#next").disabled=i==P.length-1;$("#next").textContent=i==P.length-1?"End of scene":"Turn the page"}
+$("#begin").onclick=()=>{ctx=new(window.AudioContext||window.webkitAudioContext)();master=ctx.createGain();master.gain.value=.8;master.connect(ctx.destination);
+for(const k in NAMES){const g=mk(0);g.connect(master);const synth=SYN[k]();synth.connect(g);layers[k]={g,synth}}
+Object.keys(NAMES).forEach(autoload);autoShuttle();
+$("#start").hidden=true;go(0)};
+$("#next").onclick=()=>{if(page<P.length-1)go(page+1)};
+$("#prev").onclick=()=>{if(page>0)go(page-1)};
+addEventListener("keydown",e=>{if(!ctx||e.target.tagName=="INPUT")return;if(e.key=="ArrowRight"||e.key==" "&&e.target.tagName!="BUTTON"){e.preventDefault();$("#next").click()}if(e.key=="ArrowLeft")$("#prev").click()});
+let x0;addEventListener("touchstart",e=>x0=e.touches[0].clientX,{passive:true});
+addEventListener("touchend",e=>{if(!ctx||x0==null)return;const d=e.changedTouches[0].clientX-x0;if(d<-60)$("#next").click();if(d>60)$("#prev").click();x0=null},{passive:true});
+</script>
+</body>
+</html>
