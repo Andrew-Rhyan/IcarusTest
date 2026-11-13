@@ -1,0 +1,2950 @@
+{
+ "title": "My story",
+ "pages": [
+  {
+   "text": "**Chapter 1: Ares**",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "*EXT. MATSURAN PLAINS. KARASAWAN PLATE. NIGHT*\nThe air is dry and heavy. A dead wind scatters dust across the cracked concrete of a long-abandoned industrial drop zone. Silence reigns beneath a bruised, pulsing sky.\nFrom the horizon, a massive ARMORED TRUCK glides forward, matte black, built like a mobile fortress. The wind scatters and blows every direction as it blurs past silently, leaving only an eerie quietness and a terrifying momentum one can only feel standing near its’ path.\nA whisper-toned voice crackles softly over the truck’s internal comms.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "HERACLES II\n\"Optics up boys, minus thirty until contact\"\nThe voice isn’t quite female nor male.\nInside, the hull exists only an abyssal blanket and the weary hum of mechanical servos.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "*INT. ARMORED TRUCK. NIGHT*\nIn the rear chamber, bathed in darkness, something moves.\nA containment pod unlatches with a hiss of chilled gas.\nInside sits something. Its’ eyes open, its optic light up in the darkness, a crimson glow.\nCables snake from the walls into its spine, limbs, and skull. Its body is a cathedral of steel, titanium and a pale whisper.",
+   "sounds": [
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "As the pod retracts, the hull door shoots open like an explosion in the quiet night. A hand reaches out, it grabs onto the frame of the truck as the tool of precision motion steps out. Its feet hit the floor with a crisp clang. It takes a breath.",
+   "sounds": [
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "*EXT. FACILITY RUINS. NIGHT*\nThe truck then pulls to a halt outside the skeletal remains of an old weapons plant, blown out and rust stained, but still structurally sound. Behind the plant reveals the silhouette of a gorgeous utopic city, with lights and holograms stretching into the stratosphere. The distant sound of civilization can be heard, though here feels like anything but. Above the sky, a satellite the size of a castle lays. Its eyes bore down on the entire plate.\nThe rear ramp lowers with a heavy hiss.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "DAEDALUS steps out first, suit immaculate, hair slicked back, confidence measured. He carries a datapad in one hand, his other resting lightly on a concealed pistol beneath his suit.\nIt follows.\nNow fully visible under the stars, 416 is monstrous in scale, over two meters tall, bristling with mechanized plates, shoulder mounted missile pods, and dual 50 caliber iridium jacketed hand cannons holstered at its hips. On its back hums a glowing light, the Synapse Resonance, ticking faintly.\nDAEDALUS\n*(quietly, to himself)* Let’s keep this clean.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "416 turns, he nods at Daedalus, then walks toward the building.\nDaedalus pulls out a plastic prop gun, he plugs it into his pad. A scroll of text appears briefly, broadcasting some sort of signal. He then throws it into the back of the truck before clicking a button to close the door. A soft hum follows as the armored truck engages its cloaking field and fades from view, leaving the two figures alone under the broken sky.\nMoments later, twin headlights cut through the dark.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "Two Serelon-marked semis pull up, their doors sliding open. From within pour twelve silvers, each one augmented and heavily armed. Their steps are light and casual as they look around the scenery. One sends an aerial scouting device up, its core winds up as it takes flight.\nBehind them steps a man in a sharp charcoal suit: SYLUS SMOAKE, Chief Liaison of Serelon's Private Security Division. Perfect hair. Steel-grey eyes.\nHe walks forward slowly, eyes on Daedalus. Behind him, a giant of a man, more machine than man at this point. His optics twitch and blinks.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "SYLUS\nDaedalus. It’s always a pleasure dealing with Adam Arm’s… freelance assets.\nDAEDALUS\nLet’s talk about the contract.\nHe gestures vaguely toward the ruins. The two men moved inside while the squad and a hulking man follows.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "*INT. FACILITY RUINS. NIGHT*\nSylus snaps and a soldier runs over to the middle of the room, he screws in a light bulb and it lit up a small cone of light in the middle of the darkness. Beneath the glow, a table and two chairs. As they sit down, Sylus leans on the table.\nSYLUS\nWhile I’m curious to see what you have…\n*(pauses, pulling out a datapad)*\nSYLUS\nLet’s cut the performance.\nSYLUS\nYou’ve been a consultant for AAM’s little pet project down here for three years. Including military-grade autonomous weapon trials. You think Serelon doesn’t know when a contractor is moonlighting?",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "Sylus holds up the datapad, displaying transaction logs and contract metadata.\nDAEDALUS\nImpressive.\nSYLUS\nBarely. You think we wouldn’t do our research before working with a handler? You Adam mutt.\nA silent signal passes between the Serelon squad.\nTwelve visors shift. Weapons raise. Daedalus slowly lifts his hands.\nDAEDALUS\nI’m not AAM’s.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "SYLUS\nOh, I doubt that, you think we didn’t pick up on the unregistered weapon you have stashed in the car? Experimental autonomous heavy caliber turret, slinging 3000 osmium cores a minute, you think that’s enough to cover your ass AND your men? Where-ever the fuck they are in this building.\nAs Sylus’s men begin encircling Daedalus\nThe side wall of the ruins explodes inward, a cloud of dust and metal shards filling the air.\nFrom the smoke emerges 416, Synapse Resonance flaring, eyes glowing warm crimson.\nFor a moment, no one moves. A few soldiers look startled, some even terrified.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "Then, 416 launches.\nHis Synapse Resonance fires up a monstrous metallic groan, slowing the world to a crawl as he rips through soldiers like paper. A soldier raises his rifle 416’s hand cannon blasts through his torso before he can fire. Another tries to get his aim in but 416 already appears behind him, the machine grabs the soldier by the head and turns it into a mosaic on the wall.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "Everything happening in a flash, two open fire on him finally, one tosses an emp as they desperately try to create ground and slow down the tempo of the chaos. Before it even goes off, he shoulder charges one into a wall and impales the other with a mounted blade from his forearm. A shield flares up in front of 416 and it swallows the EMP whole. The rest of the team fans out as the giant guard uses his body to shield Sylus.\nSYLUS\nWhat the fuck is that?",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "He mutters under his breath, yet he leans back in his chair. 416’s suddenly slowed down, his entire monstrous body now bare to the naked eyes. Behind him a mess of gore and blood splatters and explodes. Half of the squad has been wiped out in roughly 15 seconds. The engine winds up again but then it stops.\nINTCOM\nWARNING! SYNAPSE CORE OVERHEATING!",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.3
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "The machine grunts, as he decisively sprints full charge at another soldier. The silver barely dodges out of the way as 416’s foot crashes into the wall. It makes a thunderous crack as a massive hole now exists where once a concrete and titanium mixed barrier lies.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "Seizing the moment, the squad gathers their fire line as one readies a heavy vehicle disruptor. The device explodes at the muzzle as an ordinance flies through the air, whistling through the space between him and the silver who fired it at impossible speed. 416 tries to dodge but his leg is caught by debris sticking out of the hole he had made.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "Then, the Synapse Resonance winds up once more. 416 looks like he fades out of existence as the grenade bounces against the far wall behind him making a clang as it explodes the dust and concrete in the corner of the factory. No traces of the monster in the impact zone. Before the smoke clears, two more have already gone quiet on the radar. The only sound heard was a wet bone crunching noise.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "One identifies 416’s location beyond the smoke using a mix of thermal and electronic detection visor, he shouts and points but the machine is already in front of him. He drops his gun as the other silvers run for covers and create distance.\nSERELON OPTIC UNIT SILVER\nPlease, I have a fam-\nThe ground suddenly approaches the silver’s peripheral as his skull becomes another blood red painting on the concrete canvas. The sound barrier cracks open deafeningly as 416 stands up, his optics already scanning for another paint bucket.\nSYLUS\nLyder, want to try it?",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "The mountain of a man steps forward, LYDER. Fully augmented, combat hardened. His frame isn’t too unfamiliar to the monster, only less heavily armored and armed. Beyond the fog, 416’s optic catches a new player whose frame is warming up for combat.\n416\nWhat kind of insect are you?",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "His smile is interrupted by Lyder, as the bodyguard pulls out a hand cannon the size of an assault rifle. On it is engraved “40mm Iridium Jacket”. He fires into the smoke, hitting something as ricochet flies in all directions, clearing the fog one bullet hole at a time. Each shot almost disrupts reality, punching a clean hole in anything that exists. A blur dashes out as his arm follows the movement with precision.\nLyder’s optics focus as it tracks 416 dashing on the wall to dodge his rounds. An engine stirs awake on Lyder’s chest as time slows down.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "SEARCOM (INTERNAL)\nTARGET’S VECTOR ANALYSIS COMPLETED\nThe vector shows a straight line moving directly through Lyder. Dropping the gun, he braces himself as he dashes forward to meet the vector heads on.\n416 and Lyder collide mid-air, metal on metal. Time slows again as both men’s Resonance screams. 416 immediately pushes his gun right up to Lyder’s core.\n416\nRudimentary clone, too slow…\nA flash of panic briefly crosses the bodyguard’s eyes before he tackles the gun to the side. A shoulder mounted mini turret pops up next to Lyder’s head as it begins firing.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "The bullets ricochets off of 416’s head like it's made of solid metal. The fragments hang in the air beside them like there is no gravity. The machine grabs the turret and crushes it before being lifted by Lyder. He readies his blade as Lyder braces. An explosion slowly propels the blade out in slow motion as he already is aiming for the core once again.\nUntil…\nSYLUS\nEnough.\nLyder freezes and he violently stops the blade with his palm, the blade already through it.\n416, now inches from gutting Lyder.\nDAEDALUS\nEnough, dog.\nHis Synapse Resonance begins to cool.\nHe steps back, wordless.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.45
+    }
+   ]
+  },
+  {
+   "text": "SYLUS\nYour asset’s... impressive.\nDAEDALUS\nStill think I’m an AAM’s mutt? Now about that contract, the price just went up.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "*EXT. EDGE OF KARASAWAN PLATE. NIGHT*\nThe truck glides through the barren landscape, far away from the abandoned plant. The moon looks down on them as the night stretches on. Darkness enshrouds the forest, with only the bright lights of a distant city on the horizon. On the edge of it, you can see a shuttle taking off, likely a cargo shuttle, likely containing anything but cargo. It flies away from Zesperem, the Serelon stronghold they were once so close to mere hours ago.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "*INT. ARMORED TRUCK. NIGHT*\nDAEDALUS\nWhat fucking part of keeping this clean-are you fucking smiling? The price actually went down, you know that? 9 fucking bodies, I told you not to-\nDaedalus pauses. He sighs as he rubs his eyes. 416 doesn’t say a word, he sits quietly in the back, inspecting the bullet holes in his frame. He then reaches down and pulls out a gun by his hip, it has been damaged in the fight.",
+   "sounds": [
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "DAEDALUS\nGreat, of course you broke the Armistice, do you know how expensive…you know what, from now on, you take care of your own gears, take your shits to the shops and spend your own money.\nHERACLES II\nPapi, papi, calma calma.\nDAEDALUS\nHeracles, shut the fuck up, go to sleep.\nThe computer winds down with a low roar as the computer turns off. Daedalus breathes in deep, then out. He closes his eyes and repeats that a couple more times as his hands steady themselves on the wheel.\nDAEDALUS\nJob details are coming soon, but if my source is right, it’ll be big, in the APR’s territory.",
+   "sounds": [
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "DAEDALUS\nI’m telling you now, this gig is important, the reason why we are here on this forsaken planet too. Fucking tread carefully, do as I say, and don’t fuck this up like how you fucked this one up.\nDAEDALUS\nHera, give me a…god damn it, wake up Hera, put a reminder on the board for a psych eval on Prime Asset.\nThe computer on the truck lights up again as an UI opens.\nHERACLES II\nFinally boss, want me to look for resources and clinics in Rehoboam?\nDAEDALUS\nYeah, send everything to him, and don’t you fucking glare at me like that…",
+   "sounds": [
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "416 doesn’t look away, he stares directly through the mirror into Daedalus’ eyes.\nDAEDALUS\nFine, you did good…but you’re still going. Already transferred the money to you, don’t fucking spend it all on eth again.\nHERACLES II (INTERNAL)\nShould take him to the ball game sometimes, boss. The boy needs bonding time with his father.\nDAEDALUS\nHumor parameter, zero.",
+   "sounds": [
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "*7 hours later*\n*EXT. REHOBOAM EDGE. DAWN*\nThe truck approaches the impressive city. From the outside, it looks like it’s made of junk and scraps, but once it enters the city center, imposing skyscrapers come into view alongside brutalist megastructures.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.3
+    }
+   ]
+  },
+  {
+   "text": "*EXT. REHOBOAM. DAWN*\nNeon dots the street like a starfielded sky. The truck slows down as it approaches a high traffic section and immediately a boy comes to their window, banging on it. His hand holds a tray of cheap snacks, cigarettes and lotto tickets. He shouts something but the insulated inside of the truck blocks out all sound.\nA brief neon light shines on the window, revealing 416’s visage. The boy jumps back and runs away.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.3
+    }
+   ]
+  },
+  {
+   "text": "After a while, the truck slows down in a quieter neighborhood. It parks itself in an alley, next to trash and a person sleeping. It blares a horn and wakes up the homeless man. Agitated, the homeless man throws something metallic at the truck.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.3
+    }
+   ]
+  },
+  {
+   "text": "*INT. ARMORED TRUCK. DAY*\nHERACLES II\nBig man, earliest time for your appointment is right now, office not too far away.\n416 stands up and walks over to the weapon rack. He takes down a few guns, examines them before tossing them in a bag.\nHERACLES II\nWhat? Plan to off the doctor if she has something bad to say?\n416\nWhat happened to your setting?\nHERACLES II\nSetting? Oh you mean my humor, Boss put it back 3 hours ago. He missed the soul in my voice.\n416 sighs before zipping up the bag.",
+   "sounds": [
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "*INT. CAN FUNG CLINIC. MORNING*\nThe room is cold, padded white, the 5500K lamp hangs above their head beaming down a sickly clean hue. People whisper quietly as they work, shadow moves back and forth behind the tinted glass window of the office. The clinic smells chemical, clinical, like rubbing alcohol, like normalcy, like something that makes 416’s head screams. Bad memories, or maybe a side effect from how his brain has a dozen different modified chips regulating it constantly.\nDR. ZHALIANG\nHow do you feel about the line of work you are in?",
+   "sounds": [
+    {
+     "file": "sounds/clinic-buzz.wav",
+     "vol": 0.4
+    }
+   ]
+  },
+  {
+   "text": "416 sits back on the chair, the weight of his frame makes it crack and groans.\n416\nFine.\nDR. ZHALIANG\nI heard from your handler that today was particularly rough.\n416\nIt was fine.\nDR. ZHALIANG\nDo you ever think about the people you killed, 416?\n416\nNo.\nDR. ZHALIANG\nHow about you tell me why you think your handler wanted you to do a checkup with me.\n416\nBecause he thinks I need one.\nDR. ZHALIANG\n416, I need you to be honest for our evaluation.\n416\nI am.\nDR. ZHALl–thhHAN REYES\nI can’t keep doing this with you Sol, I can’t…you…\n416\nWhat?\nDR. ZHALIANG\nI said can you fill out this form for me?",
+   "sounds": [
+    {
+     "file": "sounds/clinic-buzz.wav",
+     "vol": 0.4
+    }
+   ]
+  },
+  {
+   "text": "416 looks around the room, his optics scanning the ventilation unit, the electronic lock on the door, then the datapad on the doctor’s table. Everything reads normal. Then the doctor hands 416 a piece of paper, full of questions and tickboxes.\nHours later, he leaves the building, hand carrying a bag.",
+   "sounds": [
+    {
+     "file": "sounds/clinic-buzz.wav",
+     "vol": 0.4
+    }
+   ]
+  },
+  {
+   "text": "*EXT. REHOBOAM. DAY*\nHe walks down the street as music blares from clubs going 32 hours a day, 5 days a week, every day, every hour. He comes across the boy from earlier, sitting on the sidewalk, counting the paper money he has collected.\n416\nYou still got smoke?\nYOUNG VENDOR\nHuh? Oh-uh, yes! 10 per carton\n416’s optics lights up, his neural computer reaches out, waiting for a handshake with the vendor’s computer for a transaction.\nYOUNG VENDOR\nOh I’m sorry, I don’t have an account…cash only.\n416\nI don’t have cash…",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.3
+    }
+   ]
+  },
+  {
+   "text": "He looks down at his bag, then pulls out a small handgun. The boy freaks out and prepares to bolt until he stops him.\n416\nTake this.\nYOUNG VENDOR\nWhat? Really? This must be a lot of money…\n416\nThen I’ll take the whole basket.\nThe boy quickly hands 416 his basket before putting the gun inside his backpack.\nYOUNG VENDOR\nThank you sir!\nThen he runs off, disappearing into the crowd toward the arm market, leaving 416 alone on the street. He keeps looking at the direction of the crowd for a long moment before turning away.\nHe pulls out a carton of cigarettes and puts one stick into his mouth.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.3
+    }
+   ]
+  },
+  {
+   "text": "*INT. REHOBOAM SILVERBACK. MORNING*\nThe gunshop reeks of oil and lubricant. The interior is almost immaculate, with display cases and the separator reinforced with bright yellow painted steel. In the far corner, a short and stubby man sits, his glasses on, looking at something through his optic display, non-visible to anyone else but him. He looks to be earth’s descendents, his feature traces back to some old earthian group of who used to dominate the population.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "Above him sit racks filled with an assortment of arms, ranging from large caliber to small. Next to them, a single heavy duty high caliber turret, its neck arches back and forth in a constant motion, emitting a low rumble throughout the shop.\nSHOP OWNER\nGod damn net…those rats at Siteguard…\nHe messes with his chip, apparently trying to access something no longer public. He notices the enormous shadow within his periphery finally.\nSHOP OWNER\nOh, you buying?\n416\nNo…you do mod?\nSHOP OWNER\nDepends, whatcha got?",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "416 slams the bag on the table. The old man opens the bag and dig inside like a kid at a candy store.\nSHOP OWNER\nAn Armistice? Real nice…beautiful piece of silver…shame she has been through so much.\nHe traces his finger over the barrel, admiring the handgun.\nSHOP OWNER\nI’d gladly take her off your hand, but I doubt you’re offering, you don’t see much baby shooting real silver these days, hell, I only stock iridium once a year.\n416\nYou got parts? The connecting pin for the slide, the gear locking the hammer, and a new trigger.\nSHOP OWNER\nI’d have to call them in, be a few days.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "The machine’s gaze moves upward, his optics landing on a large railgun mounted on the ceiling, dual barrels, the gun frame yearning for his touch.\n416\nHow about that EML?\nSHOP OWNER\nThat arbalest? Sorry pal, it’s not for sale.\n416\nOf course it is.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "He leans down, making apparent his hulking size compared to the old man. His optics twitch. The old man blinks, he stammers something but no word comes out. The turret whirls to motion as it aims itself. Before the barrel even aligns with 416, it suddenly seizes as it rams itself into the corner, breaking its own neck. The heavy metal junk falls onto the floor with a loud crash as it crackles its dying breath.\nWithout blinking or losing eye contact, the machine speaks.\n416\nHow much?",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "**Chapter 2: Rehoboam**",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "*INT. BLACK GLASS OFFICE. DUSK*\nDaedalus’s office sits above ground, though it could have been buried a mile deep for how little natural light ever touches it. Black glass windows look out onto a smear of city lights, Rehoboam’s industrial district blinking like a dying constellation.\nA single display raised above the desk, its interface locked in encrypted transfer.\n“Lt. Huntsman. The Arch Lab, Eastern ANL. Message to Director Kane Adam, recovery, medic and clean up deployment requested urgently. It’s Icarus”",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "Daedalus leans back in his chair. He intercepts the message, his fingers glide across the keyboard.\n“Kessler, Counter-Intel, Ares HQ. Message relayed, expect touch down in 3 days.”\n“Lt. Huntsman. We don’t have time. Get me the Director.”\n“Kessler. No, the Director is busy, you will get reinforcements when HQ sends you reinforcements.”\nHis eyes glow as the chip behind his ear spins.\nDAEDALUS\n“Hera, give the dog a call”",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "*INT. STAGING ROOM. DUSK*\nA heavy frame hangs on a mount, dangling like a headless corpse. Below, a shadow of a figure fiddles over the mismatched leg units. One marked Aerolift-Sig A, the other a rougher S-Series variant, not even balanced for the frame’s weight class.\nIt was then that his eyes lit up.\nINTCOM\nIncoming call.\nDAEDALUS\nCome up for a debrief.\n416 hangs up and lowers the frame. The workshop is dim and cold, lit by a single sickly lamp and the amber blink of diagnostic panels. Somewhere beyond the walls, the city hums like a beehive that never sleeps.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "He sits on a mount that jerks into motion, hauling him into the air. Mechanical clicks crawl down his body as the connection ports lock, each one a small, sharp bite in the silence. His arms stretch wide, and the mechanized limbs fold in around him. With a long hiss, the old body unseats from his head and slides away into the dark. Only the spine remains, nerve connections fanning outward like an explosion frozen in time.\nThe spinal guard folds into place. The combat frame assembles around it piece by piece, plate over plate. The mismatched legs snap into their sockets with a groan of metal.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "They’ll make him stagger in low gravity. Kick off with unpredictable torque. Every thrust will need calibration.\nThat doesn’t bother him.\nThe door folds open, and the neon of the street spills across the floor like spilled blood.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "*EXT. REHOBOAM. DUSK*\nEmerges from the darkness, he steps outside like a beast who just awoke. He looks toward the skyline, his optics whirls in, spotting Daedalus on one of the windows, leaning back in his chair, working something over on the monitor. They snap back as he begins walking toward the open garage.\nHERACLES II (INTCOM)\nNeed a pick up big man?\n416\nNo, I need you to go retrieve something.\nINTCOM\nGeolocation sent.\nHERACLES II (INTCOM)\nCome on, you know I don’t like to drive this thing…\nNo answer. 416 hangs up the call.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.3
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "HERACLES II (TRUCK SPEAKER)\nI’m gonna crash into a bus full of pedestrians!\n416 turns away, walking toward the bustling entertainment district.\nMusic blares as people in colorful outfits pour around him like a stone in a river. In the alley, in between neon slicked storefronts, a few junkies sit together, lighting up a crude pipe. A man in front of a food cart leans against an electrical pole, his hand holding a sort of flat bread wrap that looks like a poor excuse for a meal. A medical shuttle shoots past above the crowd, blaring horns as it goes.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.3
+    }
+   ]
+  },
+  {
+   "text": "A few girls holding flyers wave them around, talking to passersby. One spots 416, she comes up to him.\nTOWNCRIER\nHandsome big man, want dance? Want girls?\nHe ignores her as he continues walking.\nTOWNCRIER\nWe have foods, drinks, whatever you want!",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.3
+    }
+   ]
+  },
+  {
+   "text": "She speaks in a dialect foreign to this rock. 416 turns, he opens his hand as she gives him the flyer. “Midnight Club” It says, a horribly generic name that one would wonder what is even the point. The club behind her brandishes the name on an even bigger, repugnant sign, bright pink with a holographic woman dancing next to it. 416’s feet carry him toward it like they have a mind of their own.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.3
+    }
+   ]
+  },
+  {
+   "text": "*INT. BLACK GLASS OFFICE. NIGHT*\nDAEDALUS\nWe got a hit down the Eastern plate…\nUNKNOWN (COMM)\n*(Unintelligible)*\nDAEDALUS\nPositive, can’t be anything else.\nUNKNOWN (COMM)\n*(Unintelligible)*\nDAEDALUS\nBattle…most certainly, the package will come soon after.\nThe line ends as the room falls back to silence. He looks over at the clock.\nCLOCK (NON-VERBAL)\n30:03\nDAEDALUS\nWhere is he?\nHERACLES II\nProbably at some bar, drinking.\nDAEDALUS\nPull up my manifest, show me the calendar.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "As the handler leans back in his chair, the monitor begins to scroll through his calendar, with markings dotting the grid. As he works through his catalogue, the door shoots open.\nDAEDALUS\nHera, show me the corre- There you are.\n416 doesn’t say anything, he walks up to Daedalus as the floor opens up. A row of mechanical arms form a chair and he sits down.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "DAEDALUS\nAbout fucking time…There is an AAM run lab called The Arch, located in Eastern ANL. Dedicated to researching and digging up old war records. It went dark seven hours ago. Offshore facility, built on top of the original Icarus sprawl. Local management lost contact with the internal dev team, then with the site’s AI core, no sign of internal or external breach. Last update, the remaining team is situated in the barracks.\nHe pauses, then looks around the room.\nDAEDALUS\nNow…you aren’t their cavalry, this job is from me.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "416 leans down, his head tilts slightly as if he needs to hear better. The old handler hands a drive over and 416 slots it into his palm. A digital map of the lab pops up inside 416’s optics. A zone is highlighted in yellow.\nDAEDALUS\nSee that? That’s their last known location. They broadcasted an SOS signal to HQ, and sent a detailed report of what had been happening. Sounded like a real fucking blood bath. Men disappearing behind corners, losing net access, losing clearance authorization.\nThe display shifted, schematic blueprints, internal personnel logs, fragmentary code.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "DAEDALUS\nNo surveillance feed, no door log. Whatever has happened, they have access to the main server. The military team also went dark about 4 hours ago. Go in, find out what happened.\nDaedalus hands him a drive stick. It’s matte black and sleek, it looks strangely simple and harmless, yet, it is anything but.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "DAEDALUS\nThe big silvers at HQ don't know about it yet. We have sixty four hours to sweep, extract, and torch anything unusual. There’ll be no comm support, big brother be watching. I’m certain it’s not the APR, but still, watch out for any surprise. Be quick, don’t get seen, and if you do, leave no witness.\nStill no response. Daedalus studies him.\nDAEDALUS\nAny questions?\n416’s voice was dry, flat steel dragged across a dead circuit.\n416\nNone.\nDaedalus nods once.\n416 turns to leave, but pauses at the doorway, sensing something from the old man. He turns.\nDAEDALUS\nWhat?",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "416 gives him a look, maybe one of curiosity.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "*INT. SAVARAN AERIAL CARRIER . NIGHT*\nThe transport engine ignites beneath his feet, the door slowly opens as air violently rushes in.\nINTCOM\n705 above target.\nThe landscape beneath slowly comes into view, the lone facility sits desolate amidst ruins and desert. From above, it looks like a sarcophagus, dark, quiet and empty.\n416 steps off the platform and plunges downward like a missile. The ground cackles and screams upon impact, throwing up dust clouds all around.",
+   "sounds": [
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "He rises slowly, his optics scan the surroundings, just as the view above confirmed, dark, quiet and empty. He notices the barrack, sitting beside the entrance of the lab, the dim light inside still on, yet not a single sound can be heard aside from the whistling of the wind.\nAs he walks toward the door, it is noticeably cracked outward like something large rammed itself against the heavy titanium block from the inside.",
+   "sounds": [
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "*INT. BARRACK. NIGHT*\nThe door folds open like paper as it is tossed aside. 416 steps inside, his head swivels back and forth. Not even a corpse in sight yet the inside looks like the aftermath of a slaughter. Blood trails going around the floorspace, up the wall. A particularly large splatter lays on the ceiling. His optics analyzes the blood and identifies at least 8 different sources.\nSomething pings on his radar, movement, carbon dioxide, heat. The quivering dot hides in the corner of the facility, behind a separated booth.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "The machine walks over and forcibly rips open the separator, his small turret already aimed. And then, he pauses. A red haired girl in civilian clothing, she doesn’t look like a scientist, or a silver.\n416\nIdentify!\nShe looks dead ahead, slightly shaking, her hands tightly grasp her knees. His turret zeroes on her head, but then, it retracts itself. Looking at her better, she’s wearing a beige satchel, the clasp barely on. 416 pushes her and she is knocked onto the floor.\nCIVI GIRL\nHAH-\nAs if the push brought her back alive, she looks at 416 finally, her eyes teary.\nCIVI GIRL\nAre you…are you…",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "She isn’t sure what to ask.\n416\nNot AAM.\nShe almost laughed, maybe relieved, maybe crushed, 416 can’t tell.\n416\nWhat happened here? Who are you?\nCIVI GIRL\nI…I…I don’t know, I’m just a traveller, I came here looking for direc-\n416\nDo not lie, vermin.\nHis turret shoots back up, aiming itself at her once more, a small light makes itself known on her forehead.\nCIVI GIRL\nPLEASE! Please! I’m-I’m a journalist- I heard things about this place and I came-I came to investigate okay?\n416\nWhat happened here?",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "His turret’s barrel winds, as if it’s a gun, cocking itself. She stumbles backward and catches herself with her hands.\nCIVI GIRL\nI don’t know, I swear. I was-I was living on the base, stealing food and sleeping in vents, then one day, the whole thing went on lockdown and then-\n416’s head tilts as the girl gains back her composure.\nCIVI GIRL\nFirst, they whispered about the power going down, they tried to communicate to HQ but the tower went with it. Then their soldiers began to miss reports, then there weren't so many of them left, so they came here.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    }
+   ]
+  },
+  {
+   "text": "The machine looks at her for a moment, his eyes twitching, his turret remains by his head.\nCIVI GIRL\nI know what type of men you are, just do it already.\nHe breathes out, then the turret slots itself back inside as he turns away.\nCIVI GIRL\nWait…if you’re not gonna kill me, don’t just leave me here for it to take me too…\nHe turns and looks at her, without a word, he sighs.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "*EXT. GNASZER. NIGHT*\nThe city sits in the night, under a heavy blinding smog, dotted with power plants, factories and a lonely megastructure in the middle. The massive building has sections protruding out like branches on an ugly stubby tree. On it rests a massive sign, bright, orange and ugly. It possesses a hand holding a handle to some sort of tool, under it says “ADAM ARM MANUFACTURING”\nOn its street, you can see people passing back and forth, slightly above them, the low air traffic is filled with heavy Savaran Carriers, hauling steel tubes, bricks and whatever else.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.4
+    },
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "A shuttle makes a scar on the abyss as it slowly comes to a landing.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.4
+    },
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "*INT. PUBLIC RELATION. AAM HQ. GNASZER. NIGHT*\nThe dim office hums quietly as people shift back and forth at their cubicle. The whole space is vast, the ceiling imposingly distant. A giant piece of granite hangs from the ceiling, supported by a few cables. A central lone orange light holds the room together, it’s more of an accent than a light.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "A man walks through the door, his suit slightly rumpled, his tie loosely hanging on his neck, on his hand a cup of dark liquid. His face looks like that of a man out of time. In the corner of his eyes, he notices a man, hunched down, wiping a window, little by little,\nTHE MAN\nArt, the whole space is clean, what are you still doing? Do you know what time it is?\nThe janitor turns, only just registering the dialogue. The old man tries to stand up straight, but his back clearly can’t support him like it must have once used to.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "ARTHUR\nOh, no no, don’t worry about me… I still got a few more hours, and a few more areas.\nTHE MAN\nDid you talk to Joseph about that thing we talked about?\nARTHUR\nI…I did.\nThe old man chuckles, something in between awkwardness and defeat.\nTHE MAN\nHe said no?\nARTHUR\nHe said he’ll think about it…\nTHE MAN\nI could speak-\nARTHUR\nNo no, it’s okay, the company has always treated me well, I know you’re a good one, son.\nThe man sighs, he turns toward the office once more.\nA woman walking through the aisles spots him.\nMANAGER\nYou’re late…\nTHE MAN\nI know, I know, I’m sorry.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "She nods at him, wordlessly requesting him to walk with her.\nMANAGER\nHere’s our situation, R&D got two deliverables, we are drafting up decoy manifests but Serelon’s been running those-\nTHE MAN\nDid you even sleep?\nMANAGER\nWhatever…\nShe looks at him for a moment. What could those eyes mean? Is she appreciative? Or is she annoyed with me? He thought.\nTHE MAN\nDid they wait?\nMANAGER\nGod, no! I reviewed all the report, told them they could return to work.\nTHE MAN\nAll good?\nMANAGER\nIf you let me finish. There’s a kink, Security-",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "As she speaks, a few silvers pour into the room, along with a figure commanding them. An aged man, silver hair, donning a long trench coat. On his lips dangle a cigarette. The manager looks at them nervously, then she darts her eyes toward the man.\nINVESTIGATOR\nDirector Kane Adam? My name is Royce Edward, I’m from Pro Stand, why don’t you come with us? Right now.\nKANE ADAM\nWhat is this about?",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "The man adjusts his tie, he puts down the cup on a worker’s desk he is standing right beside. The worker nervously looks up, nosey prick. He thought to himself, what are they on about now? Do they even have him?\nROYCE EDWARD\nLet’s speak in private.\nKANE ADAM\nI don’t think we will, Royce. Am I being detained?\nROYCE EDWARD\nMatter of fact, yes you are.\nShit, I guess that’s about it then.\nKANE ADAM\nI’ll have yours and the head of whoever approved of this for wasting my time.\nROYCE EDWARD\nYou can try.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "The man reluctantly follows Edward along with the silvers. They walk into the hallway, then take a hard left into a quieter corner of the HQ.\nROYCE EDWARD\nYou two, get out. I’m commandeering this room.\nThe two workers jerk up, they hurriedly grab their belongings and leave the small private office.\nROYCE EDWARD\nYou two, go quarantine the sector, no one gets in.\nSILVER\nCopy Commander.\nTwo silvers nod as they exit the room and go in opposite directions. So secretive, so serious, what’s with all the theatricals? Pissing me the fuck off. Let’s get on with it, do you have evidence or not?",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "KANE ADAM\nLet’s get on with it, commander.\nThe commander sits on a chair and his hand gestures at Kane to sit down on the other one. The man reluctantly sits down. What? What? You asshole.\nROYCE EDWARD\nWhat were you doing on the night of the…\nHe looks over at one of the silver, the soldier shuffles through some paper, then give it to the commander.\nROYCE EDWARD\nAh yes, the 11th, this month, at roughly 27:30 to 28:30.\nKANE ADAM\nNone of your business is what I was doing, what the fuck is this?",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "ROYCE EDWARD\nOkay, dick. We think the night of Director Samuel Adam’s death, you went out of your way to cover it up. You willingly turned a blind eye to his assasination, corrupted the log and record, and the reason why is what we are here to do.\nSo the moron has no idea. Give me more room, take it slow.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "KANE ADAM\nVery fucking bold! I think if that was even slightly true, my head would be on the floor and your boot on my neck. I already gave you fucking Pro Stand a very detailed record on the day, so unless you have something real, I have shit to do. Pulling me aside! Asserting that you have a valid reason to hold this conversation! You better have something or I’ll have your job, you mutt.\nThe man leans forward, studying Royce’s face. Okay, maybe too far, maybe just right. Does he have something or is he in over his head?",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "ROYCE EDWARD\nWe have the net log, provided by Director Joseph Adam, who is very keen that you were involved in Director Samuel’s assassination. It shows the files missing and while you were very thorough, Kane, you left a fingerprint in the way you handled the console. No one navigates her like you do, little boy.\nThe man’s iris slightly widens, almost imperceptible to the naked eyes. Okay, Joseph is out for me, I can still spin this, deniable, legitimate, buy more time, they’d need more than tamper evidence to make another move.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "KANE ADAM\nOh is that all? Of course I monitor the log and check our internal records and console. It’s my job. On the day, I was requested to submit over the recording of his suite, along with door logs and everything else. I logged on, sat with my team, reviewed the structure and found it missing. Thinking some idiot had organized or routed the destination wrong during setup, I went around…\nTheir conversation fades into a murmur beyond the glass door as the manager stares anxiously.\nDESK JOCKEY\nSounds serious, with all the silvers being here.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "MANAGER\nIt’s probably nothing. Some higher ups business, they all deal with that occasionally.\nDESK JOCKEY\nWhat do you think they got him for, Liz? Embezzling? Fraud?\nHe leans in to the manager, his voice drops to a whisper.\nELIZABETH\nI doubt it.\nThe manager turns as she walks toward her office. Before she goes, she turns and speaks to the employee.\nELIZABETH\nGet back to work, I want to see draft 3 tonight, detailed and properly structured this time, I won’t fix your formatting again.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "As Kane emerges from the room, he gives Liz a thumb up and that dumb smile. She sighs and shakes her head. He walks by the desk where he left the cup and picks it up.\nMEDIA JOCKEY\nWhat did you do this time?\nKANE ADAM\nNone your business you nosey prick.\nHe said with a smile and a light punch of the employee’s shoulder. He holds the cup up as he walks toward the isolated cubicle in the corner of the room.\nELIZABETH\nWhat is that?\nKANE ADAM\nWhat’d you think? Try it.\nShe receives the cup from his hand as she raises it to her lips. I wonder what her reaction will be, maybe it’ll be funny.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "She almost spits it out, she then forcibly swallows and looks at him with an annoyed look.\nELIZABETH\nThis office is a clown show, you’re ridiculous, I can’t be drinking eth this late, I have reports, I’ll fall asleep!\nKANE ADAM\nGood, maybe you’ll have some rest. Ease up, I spoke with R&D about it, said they will delay it.\nELIZABETH\nOh thank god! We really needed that extension on this.\nKANE ADAM\nYeah, some ‘kinks’ showed up during their testing.\nShe rolls her eyes at him. What is she saying? What? Why is she looking at me like that?",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "KANE ADAM\nI didn’t do anything! Okay, maybe I ‘fished’ something out from Serelon, they had a recent contact that was…interesting, and info revealed that maybe further testing is needed. All legitimate.\nELIZABETH\nWhat, why?\nKANE ADAM\nThey ran into some freakshow, carrying crazy hardwares. Report said it’s ‘beyond’ the scope of what AAM and Serelon can produce. Serelon didn’t want it to leak out, wanted to try out the asset first maybe, to steal or to recruit, but I pushed some messages and got the old man’s attention with the ongoing news on the planet.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "ELIZABETH\nThe emperor? I’m surprised he listens to you.\nShe laughs, what audacity from this woman.\nKANE ADAM\nCome on, I’m clearly his favorite.\nHe chuckles as he leans back where he stands. The office seems to have returned to work as normal, with people shuffling back and forth in their chairs. He looks around, noticing Royce finally leaving with his men, the granite sits above everyone quietly yet it feels so loud to him. Shit, that was a close call, I have to be careful around Pro Stand. Samuel’s gone, but Joseph has to be next.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "**Chapter 3: Voices Beyond**",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "*INT. EASTERN ANL BLACKSITE. SUBLEVEL 6. NIGHT*\nFlickering emergency strobes paint the corridor in intermittent crimson. A body lies in a hallway, its head twisted around, pieces of bone sticking out of its neck. Another half way hanging off the ventshaft opening, blood drooling beneath its resting point. He stops in front of the hall, a door sitting at the end, its light indicates an electronic lock.\n416\nTwo more…Ari, another door.\nARI(COMM)\nHold on for a minute…",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "416 looks around, he notices a small flickering light inside a small room in the corner. No signal on the radar. He ducks as he enters the room, some sort of a lounge. A small couch, a portable oven sits on top of the counter, and a vending machine. Something sticks out from it, his optics whirl as the lens turns green. A body, shoved into its opening, limbs all twisted, like origami. His HUD makes a soft click within as the body counts update. His thermal reads the blood dripping out, cold, yet not coagulated.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "The hallway makes an echoing clang, like an explosion in the dead quiet facility. 416 pokes his head out and his optics caught a shadow moving beyond the door frame. His radar still reads nothing.\n416\nEver made visual on ‘it’?\nARI\nNo…all the cameras were down the moment it went down.\n416\nYou were in the barrack, what happened?\nHe speaks to the comm as he ducks once more through the now opened door. He closes the radar as he moves forward.\nARI\nI didn’t see, they all…just went quiet, even as each one was taken out, they didn’t communicate, or scream. There was one who seemed…normal.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "416\nHuntsman?\nARI\nHow do you know his name?\nHe doesn’t say anything as his HUD counters keep going up. In a lab, a body is impaled through a port used to install a turret on the floor. 416’s optics zoom in, no bruises or cut on the corpse’s hand. No other wound on the body, as if the silver didn’t fight back, and just let it happen.\n416\nYou in the feed?\nARI\nYeah\n416\nDid you see movement beyond the door earlier?\nARI\nI’m not positive, it’s pretty dark.\nINTCOM\nCOMMAND CENTER CONTAINING CORE ONE LEVEL BELOW.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "His map suddenly becomes distorted, and the HUD element starts to bleed into his peripheral. His NVG unit shuts down as he is plunged into darkness. Rustling can be heard in the distance, 416 taps his head as the system refuses to come back online.\nSuddenly, the sound of servos winding up fills the interior for a brief second as an explosion goes off, briefly lighting up 416 as he can be glimpsed in a firing position, his arm outstretched, a cannon sits above his wrist, smoke emanating from its mouth.\nSomething scurries away in the dark. A hit.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "416 breathes out a sigh as he looks around. Nothing but darkness, he goes to turn on a light on head yet it also stalls, blinking up to life and then dying immediately. He can feel his body shutting down one at a time, his jet system already disabled, his hearing slowly fades out. He opens his blade, just in case the unsheathing engine gets locked out soon.\n416\nYou still here?",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "No answer, his comm is down too. He crouches low for a moment as he winds up his arm, his right shoulder arches back. For a moment, silent, then a thunderous roar erupts kicking up dust and debris all around as a giant gaping hole opens up on the ground. 416 falls through the floor as he slowly rises amidst the smoke and debris, his right knuckle slightly damaged as he winds his shoulder like he has muscle to relax.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "*INT. COMMAND CENTER*\nThe emergency light down here is bearable, just enough for 416 to make out the shape of the room. He notices the console, lit up by the lone EXIT light still on. He walks over, his hand opens for a moment as if he was expecting something. Then he sighs as he forcibly peels off a component on his wrist revealing the drive seated inside on top of a mechanical component that failed.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "His hand runs over the surface, then he finds the port. Socking it in, the drive lights up with a HUD of its own. As he navigates the prompt, his right arm seizes in place. A mechanical sound can be heard behind him, yet he focuses on the drive. Something approaches him slowly, its footstep slightly wet and fleshy.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "It casts a small shadow as 416 finally notices, the Resonance flares up as the thing is instantly flung back. Its body hits a wall and makes a wet thud. His optics now barely work, he can’t quite make out the shape of whatever he just made contact with. He scratches his eyes as he pulls out the optics violently. It tears itself away with cables and wires still connected to his physical irises. Now, he can make out the shape as it is already recovering on its feet.\nTHE ARCH THING\nI-Requesting back- back up… Look alive…Green, watch…out.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "It's still wearing a combat vest, the patch reads “AAM” along with a name “C. Huntsman”, though the skin complexion is unusually pale and discolored. Its eyes glowing a bright blue in the dark room. Its body is unusually bloated as it slugs forward. On its neck, a deep gnash that 416 isn’t quite sure if he had caused just now, or a previously acquired wound, but no ordinary person could be standing with that.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "The thing’s head twitches sideways as 416 lunges. On close up, he can see the shape of the thing better, its limbs reinforced with some kind of combat frame, too small for the bloated body, the frame digs into the flesh yet somehow, it’s operational. It stabs 416 in the body with its own arm, the hand goes right through him. It pauses for a moment before it rips its hand sideways creating a giant hole on the side of the machine’s frame.\nWithout missing a beat, 416’s left hand swings as the blade cleanly removes the thing’s arm that had just gone through him.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "THE ARCH THING\nW-wha…happened-ere-owe you a dr-drink-\nThe thing jumps back, making distance from the machine, it crawls into the vent. 416 breathes for a moment, he would feel the pain if his neural connection was online, pain simulation wasn’t necessary yet 416 installed it on every frame anyway. Perhaps it’s useful to understand the damage and feel the battlefield a regular silver might not if his entire body was unfeeling and cold.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "It pokes his head out of the vent opening, for some reason, on its face, a twisted smile forms, its hand reaches out as it produces a gun, a disruptor. It fires as the Resonance spins against the chassis. 416 fades out of the line of fire and a clean hole is produced in the reinforced wall of the Command Center. Through it, you can see the trail it leaves, punching clean through at least 3 rooms beyond the wall. It fires again, and again as the machine frantically dodges while trying to close the distance.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "One shot grazes his head as his flesh feels the burn. Disrupting visual contact behind a small desk, he folds his body down as much as possible. His dead right arm awkwardly sits next to him like a broken limb inside a cast. He catches his breath before he flings the whole table at the vent opening. It hits with a loud thud but as the desk falls back on the floor, the thing isn’t there anymore.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "From another opening, it jumps down on top of 416 and its gun presses against the machine’s head. He looks up, the Resonance winds up again as he can see the hammer clicking. His frozen right hand goes up, still locked in position as he pushes the gun out of the way. He stumbles forward as the round barely misses and punches a hole into the floor. He knows his core is overheating about now, his left arm swings upward to catch the creature but it jumps away, faster than him, like it knows when to lure out the Resonance.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "He looks around, the creature is gone, he looks over at the drive on the console, its program is still hanging. With his blade out, he struggles to grab his gun by his hip. The machine looks at the blade for a moment, perhaps thinking of snapping it off, but then he looks away, anticipating when the creature will strike next until suddenly something lands on his feet. He looks down, it’s his left arm, punched clean off with a round.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "*INT. EXEC SUITE. AAM. NIGHT*\nThe office’s geometry is irrational, the ceiling as tall as four rooms stacked on top of each other. Varnished dark oak lines the wall reaching up to the heavens. Rows of blinding light fills the ceiling, leaving it blinding, like a portal to the void. On it hangs a giant ornate sword carved out of stone. The thing must weigh up to 10 tons, dangling impossibly above the workspace.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "In the back of the room sits a set of desk and chairs. Immaculate finishing, on it rests several piles of paper, cups and odd pieces of technology. The room is lit up by only the heavenly light above, leaving the rest bathed in darkness and the occasional strip of neon light accenting the lower walls.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "Kane, now in a more polished dark ochre suit, sits on his chair, leaning back while looking at something through his optical display. A man walks in, carrying a datapad, suited in black. His features are thin and gaudy. A few lines of silver run across his face, a signature of a man who takes care of his plate.\nKANE\nVirgil, how’s it looking?\nVIRGIL\nJoseph’s been off world, he’s on Mars, can’t physically reach him…but we still have people on the inside.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "What a little rat, pulling strings from the safety of home. He thinks he’s safe, but he isn’t. Kane stands up, he rubs his temples before walking toward the fridge unit.\nVIRGIL\nOne is risky enough, two will put it on the map, you know?\nKANE\nFucking Pro Stand already sniffing in my business. Royce needs to go first.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "Kane opens the door and pulls out a bottle of dark liquid and two glasses. He pours it, then hands Virgil a glass. Would getting Royce out of the way cast more suspicions or is the stall worth the effort? If we disrupt comm, it would take weeks for things to get back to Mars. Need to plan a net disruption. What do I do, what do I do? Fuck.\nVIRGIL\nI know that look on your face.\nVirgil puts a hand on Kane’s face, studying him for a moment. What? What is he doing? Kane looks at Virgil but doesn’t pull away.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "VIRGIL\nI think you should keep your head down, Pro Stand won’t be able to dig up anything, and I bet Royce and his boys will get back on their shuttle and fly out of here soon.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "He finally pulls back, taking a drink. Maybe, maybe I just don’t do anything for a moment. He looks around the room, but nothing comes to him. There is no plan, no fallback. He looks up toward the ceiling as Virgil sits down on his chair, spinning it around. He kicks the wall behind the desk, opposite to the door, and it fades out, revealing a glass window, overlooking Gnaszer’s Office District. Full of skyscrapers, apartments, hotels. A view of luxury lasting only a few squares before the smog filled industrial complexes begin\nVIRGIL\nRelax, Ares is yours, look at it.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "Kane turns around as he leans one elbow on the headrest. Is this it? Is this all there will be? Climbing to the head of HQ on a barren wartorn rock filled with misery? What’s the point? What am I even doing?\nVIRGIL\nYou said you wanted to influence real changes, right? Now is the time to do it. Then we’ll tackle whatever comes next. Whatever Joseph might plan, whatever internal might bring.\nKane leans down, looking at Virgil. Their eyes connect as the world drowns out for a moment. Then, bangs on the door interrupt the moment. A jockey comes running in.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "DESK JOCKEY\nI’m sorry to interrupt, sir, I’m sorry. But the Emperor.\nWhat? What do you mean the Emperor? What? Why are you just standing there?\nKANE\nSpit it out!\nDESK JOCKEY\nHe’s here!\nWhat the fuck?",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "*EXT. LANDING ZONE. NIGHT*\nSmoke fills the ginormous landing pad as an ornate shuttle slowly comes to a land. The sound is deafening, erupting the entire city in its wake. Its propulsion slowly dies out when 8 mechanical legs fold out, catching itself on the landing pad.",
+   "sounds": [
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.55
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "A hatch unlatches with a heavy metallic clang as a narrow stairwell deploys downward. From within, an oppressive radiance spills into the dark, blinding to the naked eye. Broadening out in crisp unison, nearly thirty silvers cascade onto the deck, locking into defensive formation. Each operative is encased in high grade mechanized frames, heavy assault ordinance locked onto their shoulder mounts.",
+   "sounds": [
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.55
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "A foot steps out onto the first step. A figure emerges, he ducks as he steps forward. Standing tall under the miasmal sky, he must be over 2 meters tall, body kitted out with heavy industrial augment. Long silver hair flowing behind his head, and a thick beard on his face. The figure looks around, his eyes cold and unfeeling.\nIt is the fucking old man, what the fuck is he doing here? Kane walks out into the landing zone, with Virgil following him right behind. The secretary holds on to the pillar as the wind almost blows him away, while Kane walks forward.",
+   "sounds": [
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.55
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "KANE\nDIRECTOR ARMISTICE! IT’S A PLEASURE!\nKane yells over the wind as he approaches. A silver pushes him on the shoulder before he can reach the Emperor only to be met with a punch to the back of his head. It knocks the silver down to the ground. Any other unit’s head would have caved in instantly, but luckily for the soldier, his frame is top shelf. Fucking dick…The Emperor’s arm recoils back, as he opens his mouth.\nADAM ARMISTICE\nThat’s my son.\nKane looks on, his eyes quiver slightly, maybe to the wind, maybe in front of Adam. He isn’t quite sure himself.\nADAM ARMISTICE\nDrop the formality.",
+   "sounds": [
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.55
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "What on earth? Why is he talking to me like that? He never allowed me to. Kane gives a forced smile as the old man rests a hand on his shoulder.\nADAM ARMISTICE\nLet’s talk, our family…our empire is under attack…",
+   "sounds": [
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.55
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "*INT. COMMAND CENTER. NIGHT*",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "416 pants heavily as he feels the synthetic lungs within his frame filling with liquid. The thing jumps at him as he catches it with his foot. Barely. He pins it on the ground as the other foot prepares to come down. Impossibly, the creature flips him onto his back with strength the ordinary combat frame its running shouldn’t be able to. He frantically looks around for the disruptor it had been using but it’s nowhere in sight. His other leg kicks up at it as the thing once again retreats into the darkness.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "His eye notices something in the reflection of the metallic table flipped over in the corner. A light source like that of the rifle.\nAnd then\nA voice, soft and feminine, a familiar one. The clarity cuts through the quiet like a blade.\nARI (COMM)\nYour 275, it just moved, it’s aiming now.\n416 freezes for half a second before he lunges forward, dodging another shot. The thing is now hiding behind the main console.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "Suddenly, like a switch that had been flipped, pain floods his brain, he can now feel his missing arm, the hole in his abdomen and then his right arm, almost like instinct, catches a fired round in mid air.\nHis leg servos stir awake as the jet system boots themselves on. The atmosphere floods back into his auditory system, and his turrets shoot up. His armor plates wiggle and snap into place, he drops the chunk of metal on the ground and arches his right arm back and forth like racking a shotgun. A smile creeps onto his mouth as he fires up the Resonance.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "He moves to the creature, now static from his perspective, its sorry excuse for limbs can barely move fast enough to get out of the way. He tears into its body with his hand and rips it in two with the help of his leg.\nAs the Resonance winds down, the creature grotesquely stitches itself back up right in front of his eyes using the frame. It kicks at him then crawls away. His turrets open fire at it and the thing dodges perfectly, too perfect. The micro missile rounds went into the floor, exploding the panels.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.45
+    }
+   ]
+  },
+  {
+   "text": "ARI\nIt’s in here, reading you, but I’m blocking it. It can still read your projectile’s velocity.\n416\nHow are you even here?\nARI\nNo time, it found your left arm.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "Just as she speaks, the creature now is wearing the detached left arm on its back, the blade still attached. It shrieks as it jumps onto the wall and crawls alongside it toward 416. His turrets aim and fire once more, and it dodges all of the missiles again, yet, 416 keeps firing. This time, the fire pattern is more random, all over the place, making it harder for the thing to dodge. One round nearly clips it but it uses the blade to parry the missile away.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.45
+    }
+   ]
+  },
+  {
+   "text": "A turret on its frame pops up and shoots at 416, he dodges but it fires a second shot the moment his legs move, hitting him directly where he jumps to. The round hits him in chest as he staggers back,\nARI\nIt…it knows where you will move. Wind up your core, it’s destabilized, you have to use it.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "416 chuckles, maybe he gets exactly what she means as he fires up the Resonance. The corrupted core starts recording corrupted movement data as he moves toward the creature. 416 was about to grab it, but he notices in its chest, a grenade with the pin off. He kicks it away as the grenade falls out. The creature swats it in mid air and the ordnance explodes near the console. 416 looks over, the drive unharmed as well as the console.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.45
+    }
+   ]
+  },
+  {
+   "text": "He leans left, and the thing leans right, mirroring his angle, its turret aimed, ready to shoot the moment 416 makes a movement. Then, the Resonance starts to spin, activating his fallback mechanic. 416 is forcibly moved on the recorded log of his movement. His frame moves in reverse like a puppet on a string as the creature starts firing. The corrupted data along with his mismatched legs makes him slip and inadvertently dodges the singleshot turret round.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "It winds up again, this time in Resonance time as he moves through a wall, exploding a hole in it, and then he appears behind the creature through another hole in the wall, right where he almost grabbed it earlier. Its arm flies up, intending to take his head clean off but he catches it. He holds it up by the neck as his turrets decimate the creature’s head until he’s holding a headless corpse.\nHe drops the creature as it momentarily limps and he keeps firing at it until it's a pile of gore on the ground.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "**Chapter 4: Ember**",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "*EXT. THE ARCH. DAWN*\n416 limps outside, he looks toward the sun rise beyond the sea. The first light of dawn hits his face as he looks around. The SAC nowhere insight. On the door of the barrack, a note is left stuck on the side.\n“Thanks for the gaol-carrier, I’m sure it’s the least you can do”\n416 looks at the note and sighs. He sits down on the side of the building for a moment, just staring at the sun.\nThen.\n416\nHeracles, pick me up.",
+   "sounds": [
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.25
+    },
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "*INT. DROP SHIP. DAWN*\nThe inside of the ship feels like home. 416 is now wearing a smaller frame, he looks almost normal. He hunches over the workshop table, inspecting the damage. Had the fight went on for longer, he might have been decommissioned, then hauled away by AAM’s recovery team.\nHERACLES II\nWhat happened to your carrier?\n416\nLost, damaged.\nHERACLES II\nWow, I have never seen you beaten this bad. What happened?\n416\nAn annoying insect.\nHERACLES II\nYeah…yeah…real good conversation with you. Why do I even bother?",
+   "sounds": [
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "*INT. STAGING GROUND. DAY*\n416 slams open the door, Daedalus already sitting inside. Walking over to his workstation, he tosses Daedalus the drive.\nDAEDALUS\nAlright…plug yourself in, let’s get a mission report.\n416 plugs into the computer on his desk. Daedalus begins to navigate his logs.\nDAEDALUS\nFuck, what happened down there? All corrupted. Almost everyth-\nBefore he finishes his sentence, he feels cold steel press against the back of his head.\n416\nWhat the fuck did you send me into?\nDAEDALUS\nI told you.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "Daedalus’ head slams against the table strong enough to break his nose. He begins bleeding as he coughs.\nDAEDALUS\nYou fucking psycho-\n416\nYou knew what it was.\nDaedalus laughs as he coughs out the blood. He adjusts himself as he turns to look at 416.\nDAEDALUS\nWhat? An apex predator, isn’t that what you like to think of yourself as? As far as I’m concerned, you got it handled.\n416\nNext time, expect a bullet.\nHERACLES II\nWatch out boss, he’s feisty today.\nDAEDALUS\nDidn’t even know the bastard could feel anger.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "He mumbles to himself as he chuckles before returning to the computer. He grabs a cloth as he looks over.\nDAEDALUS\nFucking nothing survived, want to tell me what you found?\n416\nYou tell me.\nThe machine sits down on another chair next to Daedalus.\nDAEDALUS\nAlright. What you fought was probably a battle analysis and predictive program. Built from the war. They probably turned it on, studied its making without knowing it’s actually intelligent.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "416 glares, he leans back as the drop ship slowly moves inside the bay. It docks itself with a loud hiss as his damaged combat frame is wheeled out automatically by a forklift.\nDAEDALUS\nThe thing was made to be able to jump and adapt to any system, meant to be compatible with virtually any software and hardware. They called it, Cerberus. Only beaten once in combat, back during the war, they deployed this shit on the Earthian force, wrecked their entire front line on Phobos. 16 strongholds fell in one night. Which brings me to you, how did you beat it?\n416\nRecursive predictable insect.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "Daedalus leans back, he studies 416’s face for a moment too long.\n416\nWouldn’t have taken so long if you told. My frame is totalled, it will be expen-\nDAEDALUS\nDon’t even fucking start, do you know how much you costed me with the Serelon’s contract? Uh huh, that’s right. Consider this mission a fucking lesson. Your paycode arrives soon.\n416\nNow, who’s the customer and what’s on the drive.\nDAEDALUS\nWhat do you think? And it’s none of your concern.\n416\nRemember, old dog. Do this again, and you won’t live to see the fruit of your labor.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "416 exits the room, leaving Daedalus sitting in the dark. The old man looks at 416 for a long while before he sighs and returns to the computer. He picks up the drive and plug it in.\nHERACLES II\nThe dog is becoming rabid.\nHera speaks as an enormous frame has its optics light up in the dark. Its size dwarfs Daedalus, and maybe even 416.\nDAEDALUS\nNo. It’s fine.\nThe thing boots back down as it fades into the abyss once more.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "*INT. EXEC SUITE. AAM. DAY*\nThe two men sit under the hanging sword alone. Kane leans forward as he studies his father’s face while Adam leans back in the chair, one hand caressing a glass.\nADAM\nAged since 2185, that’s a good whiskey. You know, I was but a young man when this got barreled, working in some mine on Mars. No one wanted to move there then, a harsh and barren rock, 85% of the planet didn’t even have breathable air. I lived in a bubbled community.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "Kane looks at his father, the old man’s face is unreadable. A smile like a scalpel. What does he want? He never talked to me like this, let alone travel all the way here. Does he know? Is he here to bring me in?\nKANE\nI think Gabriel once told me something like that. We used to sit and drink atop the Silver Edge, and bond over your dysfunctional parenthood sensibility.\nAdam chuckles and bellows out a deep laughter, he slaps Kane on the back a few times. He takes another sip as Kane smirks.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "ADAM\nThat is amongst many of my regrets. Gabriel would have made a great chairman, always so wise, it’s a shame.\nKANE\nYeah.\nThe memory of Gabriel stirs up something unpleasant for Kane. Fuck, we were close. If he was here…what’s the point. He isn’t. Another gear gone to the grinder and the fucking architect of our torment doesn’t even feel a thing.\nKANE\nChairman…Father. Let’s discuss why you’re here.\nADAM\nOf course. As you are aware, Samuel was assassinated. It’s not a coincidence. A force within our empire is making moves, and they are not subtle.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "The monstrous man leans in, his servos whirl as he speaks.\nADAM\nI am consolidating my heirs, so I’m here to review our project, then summon you back to Mars.\nKane blinks, he leans back as he takes it in. The old man wants to take me back to Mars, strip me of all I have accomplished here. Be in his fucking shadow. Does he know? If he does, Mars is a death sentence, if he doesn’t, Mars is a prison. Fuck, I can’t go.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "KANE\nWhile I am touched that you care for my personal safety, I doubt that any force would want to take me out of the picture. I’m not even next on the chair, nowhere near. My duty here…is important and with Samuel gone, someone has to be at our helm on Ares.\nADAM\nNonsense. I have lost too many sons, I won’t lose another to some…\nHe looks around then outside the window toward Ares.\nADAM\nSome fucking backwater planet digging up useless artifacts.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "Kane relaxes, he notices something in the old man’s eyes, in the way he speaks. Bullshit. He doesn’t care. He’s consolidating heirs to Mars, that’s why Joseph returned, and now I am being summoned too. He’s planning something big that involves risks and he doesn’t want his sons to defect. Easier to manage and to threaten. A secession from the United Planetary Federation. Rumors have been going around, but he’s making his move. The assassination is a good excuse, showing up here is a show of force. Comply to the Emperor or to be taken back in cuffs.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "KANE\nWell, I do have a few things to wrap up and to show you. In the meantime, please enjoy your time here. This city, it’s Sam’s legacy.\nADAM\nIt’s beautiful, more than what I gave him credit for. Didn’t know he had it in him.\nAdam chuckles as he finishes the glass. What a fucking prick. Kane stands up and he puts his glass away.\nKANE\nExcuse me, father. I have to go attend to a few-\nADAM\nGo, go. I’ll be around.\nKane steps out of the room, there Virgil had been standing, waiting. A friendly face that makes the man feel a bit better about his situation.\nVIRGIL\nHow was it?",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "His voice is tinged with concern. God, I hate it when he does that, worrying and asking. Always so perceptive.\nKANE\nLet’s go have a real drink, I’ll tell you.\nVIRGIL\nRehoboam?\nKANE\nActually, yes.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "*EXT. ENTERTAINMENT DISTRICT. REHOBOAM. NIGHT*\nThe moon peers down from the pulsing sky, gazing at a lone dimly lit bar in the far corner of the district. From outside, you can hear the sound of some sort of commotion. People shouting, bodies hitting furniture. And then, the double door swings open as two burly men carry a limp patron out by his arm. They toss him into the street, his coat flaps down, getting mud and dirt all over its tail.\nHe stands up, he looks over his arm, the frame slightly busted. The limb moves erratically as it whirls back and forth, and then it settles.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/neon-music.wav",
+     "vol": 0.4
+    }
+   ]
+  },
+  {
+   "text": "ARI (COMM)\nThat was subtle. Next time rip a guy’s spine out to see if they’ll like you even better.\n416 scoffs as he begins walking toward the heart of the district. He notices a luxurious carrier flies over his head, landing at a particularly fancy club down the intersection.\n416\nYou did something to my operating system.\nARI\nIf you mean an upgrade, yes. Did you show your handler?",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/neon-music.wav",
+     "vol": 0.4
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "He doesn’t say anything. The crowd of people part their way around him as he approaches the center of the district. Shops and businesses pour into the walkway, with stands, tables and chairs filling the entire pavement, leaving only the concrete road for traversing in the middle.\n416 flicks open his HUD within his optics. It has changed, once the console red accented, now a soft blue.\n416\nA foreign OS. Not Hermes, not Meth. Take it out.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/neon-music.wav",
+     "vol": 0.4
+    }
+   ]
+  },
+  {
+   "text": "ARI\nHey, come on. It’s an OS no one uses, it’s encryption entirely alien to every grid jockeys out there, you’re unreachable. You want something like Cerberus disabling half of your rig again?\n416 doesn’t say anything, but he stares at the HUD for a moment. Maybe the machine is thinking, or considering her offer.\nARI\nBesides, our comms will be entirely unreadable. Can still connect with your handler through the grid’s waves you two have been using.\n416\nAnd let you have full access to my system whenever you want?\nARI\nHey, you saved my life, I’m not going to do harm to you.\n416\nVermin…",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/neon-music.wav",
+     "vol": 0.4
+    }
+   ]
+  },
+  {
+   "text": "He speaks under his breath as he opens the door to something in between a club and a hotel. Silver Edge, owned by the Prosperity Group, under the AAM’s umbrella regarding their leisure ventures.\nA hostess in a business suit stands ready at the counter. Her smile is always and constant.\nHOSTESS\nWelcome…sir, to the Silver Edge. Do you have a reservation?\n416\nNo…\nHOSTESS\nAre you here for our bar or our restaurant? I’m afraid only the bar is available right now, the restaurant is fully booked.\n416\nBar…\nHOSTESS\nWell, we welcome you to the Silver Edge, the bar is right down there, sir.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/neon-music.wav",
+     "vol": 0.4
+    }
+   ]
+  },
+  {
+   "text": "416 shrugs one side of his shoulder as he walks toward the bar.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/neon-music.wav",
+     "vol": 0.4
+    }
+   ]
+  },
+  {
+   "text": "*INT. SILVER EDGE. REHOBOAM*\nVIRGIL\nYou really gonna go?\nThe private booth is pitch black, only lit up by the purple lamp in the middle of his table. A few bottles scatter the surface as the two men sit.\nKANE\nI doubt he will settle for me to stay.\nKane stands up as he walks around the small room. This is it. Building a good AAM, gone to the dirt. Off to Mars, playing some good son, ruling over some useless division making fucking wrenches and drills. Shit, why does he look like that?\nKANE\nHey, I’ll bring you with, just a more…boring life. Unless you want to stay, take my position on Ares.",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/neon-music.wav",
+     "vol": 0.4
+    },
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "Virgil chuckles out a breathy laugh. He leans back.\nVIRGIL\nOh please, this rock is a live fuse. With an Adam name on the board, Serelon at least won’t try anything stupid. With you gone, I’ll be prey for their feast.\nThe man places a hand on his chin. Afraid for his life? Or afraid of the responsibility?\nVIRGIL\nYou’d leave me here? All vulnerable to them?\nHis voice raises to a playful high pitched tone as he looks at Kane with those puppy eyes. The man laughs as he shakes his head.\nKANE\nYeah yeah, maybe I should, see how you squirm from my mansion on Deimos.\nVIRGIL\nSo cruel.",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/neon-music.wav",
+     "vol": 0.4
+    },
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "KANE\nYou know…He could be here to bring me to justice.\nVirgil leans back, his face solemn. His mind seems to run something.\nVIRGIL\nHe can’t know, there’s nothing to know, all the evidence…\nKANE\nI know…Probably not, but it’s a possibility…and I can’t take that.\nVIRGIL\nWhat do you mean? You want to…the Emperor?\nKANE\nWhat? No, that’s impossible. Not to mention another death sentence. But, when we wrap things up here, I’ll arrange a coup on Mars…and I want you to…take down the coup and bring me in.",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/neon-music.wav",
+     "vol": 0.4
+    },
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "VIRGIL\nUh uh! No, no way! Why would you even do that? What’s the point? Why don’t we just go back and see what happens? You said it yourself, the Emperor could be going for the secession play, if so, we just lay low, wait for it to blow over, then…rebuild.\nKane sits back down on the couch as his head hangs low. His hand scratches the back of his neck as his other hand rests on his knee. Fuck, I don’t want to…risk his life. I have to find a lamb. It’s the only way. He looks back up at Virgil, finding him pouring another drink. Let’s just relax for now.",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/neon-music.wav",
+     "vol": 0.4
+    },
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "*EXT. REHOBOAM ENTERTAINMENT DISTRICT. NIGHT*\n416 comes stumbling outside the bar, bumping into a passerby. He pushes the stranger as the passerby pushes back. 416 throws the first punch as the stranger is knocked backward. Then comes the pain. The stranger’s fist connects crisply on 416’s cheek, throwing him off balance as he stumbles backward and falls into the alley next to the hotel.\nPASSERBY\nFuck off, pal.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/neon-music.wav",
+     "vol": 0.4
+    }
+   ]
+  },
+  {
+   "text": "416 lies on the pavement for a while. He looks up toward the skyline. The buildings reach toward the stars as the sound of people walking back and forth fills his auditory system. The temperature tonight is cold, the first cold night of the winter season. The sharp feeling lingers on his metallic frame. His HUD reads -7 Celsius. There’s a shape next to him, quivering. 416 doesn’t react, maybe his brain is so intoxicated he’s not registering anything, or he doesn’t care.\nARI (COMM)\nThere’s a woman next to you.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/neon-music.wav",
+     "vol": 0.4
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "416 turns his head, a woman draped in a blanket. Under the blanket, there seems to be something else. His radar reads a second source of CO2 and heat. A little child. He grogily sits himself up.\nARI\nThey…don’t have an account. Can you go to a transactor and withdraw some cash for me? I already sent your account the amount.\n416\nDo it yourself.\nHe crawls to his feet as he stands up. He begins walking away back into the night. The woman coughs as she looks at him for a moment before she returns her gaze to the child under the blanket.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/neon-music.wav",
+     "vol": 0.4
+    }
+   ]
+  },
+  {
+   "text": "As he makes his way down the street back toward the quieter part of town, he notices some commotion. The dark block in front of him briefly lights up as a gunshot rings out in the night. Some people walking behind him also noticed the sound. They pause for a moment before returning to their stroll, no one bats an eye or gives it a reaction. From the alleyway, out runs a little kid. He runs into the darkness of the commercial square.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/neon-music.wav",
+     "vol": 0.4
+    }
+   ]
+  },
+  {
+   "text": "As he walks down the street, he sees the victim of the resulting event. A man, holding his abdomen as blood gushes out relentlessly. The dying man scoffs under his breath\nDYING MAN\nGod damn kid.\nHe coughs. The victim is wearing a nice suit, and seems to be the executive type. Men like him shouldn’t be walking alone down such a dark street in Rehoboam.\nINTCOM\nNEW MESSAGE!\nDAEDALUS (MESSAGE)\nRest up, gear up. Serelon’s job is sixty four.\nHe turns off his comm as he continues wandering.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/neon-music.wav",
+     "vol": 0.4
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "*INT. CENTRAL ARESIAN NATIONAL LABORATORY. UNKNOWN*\nThe hallway is clean, stretches deep into the distance, an impossibly long corridor marked with intersections. A labyrinth in the hearth of the earth. Alarm blares as orange lights flicker.\nOVERCOMM\nEVACUATION IN EFFECT! ALL PERSONNEL REQUESTED TO REPORT TO YOUR IMMEDIATE SUPERVISOR!\nA scientist runs past the speaker. Her lab coat flabs in the wind as in the distance, a troop of silvers chase after her. Leading them is another scientist, on his chest, his coat says “A. MATSUMARA”.\nMATSUMARA\nDOCTOR LEO STOPS!",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.3
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "She breathes, her breath ragged and tired. She takes a hard turn, meeting a locked door. She rapidly presses the combination and the door shoots open. The moment she closes the door behind her, it’s met with banging and shouting from outside.\nMATSUMARA\nDOCTOR ELEONORA, OPEN THE DOOR.\nShe frantically runs to the console in the middle of the room as she inserts a drive.\nELEONORA\nCome on Minos.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "The console pings the download being finished as she presses a button. The whole facility is plunged into darkness as its emergency mode kicks in. Red light fills the space as distant gunfire can be heard. The knocking ceases as it’s replaced by a silent, occasionally interrupted by burst of gunfires.\nThen, a claw rips into the door as it is ripped open. Matsumara nor his squad is nowhere in sight. There just stands a lone man equipped with a highly advanced combat frame.\nUNIT D COMBATANT\nDoctor Eleonora, shut it down. It’s over.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "The soldier breathes heavily, he limps over toward her. Just as he is about to reach her, he is knocked down by a much larger shape behind him. An entirely mechanical automaton bearing the signature “MINOS”\nELEONORA\nDid you get Matsura?\nIt doesn’t speak. She wonders why she even asked. When she turns around, suddenly the combatant gets up as he tackles the leg of the unit. His monstrous frame whirls as he rips the thing’s leg off. He tosses it to the far side of the room as the creature screams in mechanical servos and pistons.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "Balancing on its one leg, its hand goes for a punch that the combatant blocks. Dodging under the arm, he goes forward with a hook but his hand is caught by the creature’s other hand. He pulls out a pistol as he shoots the thing in the abdomen. The bullet rips through its body yet it remains impossibly still. It knocks the gun out his hand as it knocks him down onto the ground.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "As his head hits the ground, the world blurs into a mess of sensory information. The cold hard ground, the sound of the alarm still blaring, the mechanical noise of his frame, the metallic taste in his mouth. Its hand shoots down like a missile, catching the combatant in the neck. The soldier grabs his pistol and fires into the unit. The shots punch through the head of the creature but it doesn’t stop it. He kicks and punches but it has no effect. Right when he is about to pass out, he reaches into his vest and pulls out a tiny grenade. He holds it up to the creature’s head as he screams.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.3
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.45
+    }
+   ]
+  },
+  {
+   "text": "UNIT D COMBATANT\nFUCKING DIE!\nThe grenade explodes instantly turning his right arm into mist, as well as the creature's head, finally stopping it. He limps up as Doctor Eleonora staggers backward. Fears paint her eyes until the soldier falls down.\nShe retrieves the drive as she pockets it inside. She walks past a monitor broadcasting some news. The hallway is filled with blood as she walks past. Several silvers have had their bodies ripped apart, some missing their limbs, some missing their heads. She leaves the facility as the monitor still echoes.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    },
+    {
+     "file": "sounds/combat-tension.wav",
+     "vol": 0.22
+    }
+   ]
+  },
+  {
+   "text": "GENERAL (BROADCAST)\n(inaudible)…shot fired, I wasn’t born yet, and neither were most of you. A war we inherited, and it was taught to us, to our children before we even learn to re– but I don’t. I feel something heavy— the weight of those who aren’t in this room– May we celebrate this pe– colonies and earth.\nThe vast auditorium erupts into the sound of hollering and clapping. The general raises his hand as he walks away into the back of the stage.",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.45
+    },
+    {
+     "file": "sounds/alarm-pulse.wav",
+     "vol": 0.2
+    }
+   ]
+  },
+  {
+   "text": "*INT. THE UNIFYING GROUND. EARTH. DAY*\nREYES\nGood speech, dare I say, one of your best.\nThe figure stands in the small room behind the stage, dressed in a snug and extravagant suit, hair a little messy, hanging by the shoulder. The general gives a tired smile. His uniform hugs his body tightly, along with the numerous medals pinned on his chest.\nGENERAL\nYeah, big day.\nREYES\nHave yoouuu…talked to the board?\nGENERAL\n…No, not yet.\nREYES\nWhat is it? Having second thoughts?\nGENERAL\nNo, it’s just…you’ve been doing it all your life…and now it’s over…\nREYES\nTake it slow, one day at a time, Sol.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "SOLOMON\nYeah…\nThe general chuckles as he swings his arm around his partner’s shoulder.\nREYES\nAlright, let’s go for lunch.\nThey walk down the hall into the opened door. Their heads lean into each other as they go. Their conversation continues as it drops into a murmur.\nREYES\nBig baby, talking about some “I don’t know what to do”\nSOLOMON\nHey!\nThe sound of a public speaker blares. As the sun peaks through the cloud, the first ray of light hits the street, over the face of a figure.\nSPEAKER\nGARBAGE COLLECTION IS TODAY. PREPARE YOUR TRASH FOR COLLECTION OR KEEP THEM INSIDE UNTIL THE NEXT ROUND!",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "A man rushes outside with a bin as he trips over something and falls over. The garbage bin drops over as the trash sprawls all over a thing on the ground.",
+   "sounds": [
+    {
+     "file": "sounds/office-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "*EXT. REHOBOAM. DAY*\n416 opens his eyes as trash covers his body. He feels a kick where his spleen is supposed to be as he groggily gets up. His head turns, the resident shouts something but his ears can’t quite make out. He stands up and walks away, his legs limping slightly.",
+   "sounds": [
+    {
+     "file": "sounds/city-hum.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.3
+    }
+   ]
+  },
+  {
+   "text": "**Chapter 5: Bloody Bay**",
+   "sounds": [
+    {
+     "file": "sounds/dark-drone.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "HERACLES II\nWake up!\n416’s optics come online. The sound of tires rumbling floods his head as he looks around. The innard of a Savaran Ground Vehicle is claustrophobic, the machine barely fitting inside. With him are two silvers, bearing Serelon on their vests.",
+   "sounds": [
+    {
+     "file": "sounds/engine-rumble.wav",
+     "vol": 0.5
+    }
+   ]
+  },
+  {
+   "text": "*EXT. HELIOS BAY OUTER RIM. DAY*\nSERELON STRIKE TEAM LEADER\nHe’s up.\nThe silver speaks into his communication device. The other silver gives the leader a look, then he turns away, looking out the small slit.\nHERACLES II\n15 minutes until objective. Be alert.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "The AI speaks coldly in the machine’s comm system. 416 cracks his neck as he feels his shoulders and arms. A new combat frame rests below his head, similar to his old frame, though the metal hasn’t lost its shine yet. His arms are different, bigger, lacking the blade mount. Pistons and steam ports are visible at where regular biceps would be.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "His radar reads them coming up to three strange signals. The squad leader also seems to notice this as he bangs twice on the side of the inside. The vehicle comes to a slow crawl as it steadily stops. The squad leader peers through the slit, his optics spotting a digital barrier, only seen through the scanner within the optics.\nSERELON STRIKE TEAM LEADER\nFirewall, let’s get down.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "The door hisses as it swings open automatically. The two silvers step down as 416 steps forward. His weight causes the vehicle to droop slightly before he steps off onto the ground. For a moment, the firewall seems to pulsate as it moves backward rapidly.\nThe leader’s blood runs cold as he commands.\nSERELON STRIKE TEAM LEADER\nBACK ON THE CARRIER NOW!\nThe two silvers rush onto the vehicle as the firewall suddenly stops in its track, then begin pulsating back outward rapidly.\nSERELON STRIKE TEAM LEADER\nTIN MAN, GET ON, IT’S GONNA BURN YOU.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "416 doesn’t budge as the vehicle starts its engine. It begins backing up at incredible speed away from the wall closing in.\nSERELON STRIKE TEAM LEADER\nDumb fuck!",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "He curses under his breath as the vehicle desperately moves away. The wall closes in on them rapidly as 416 is engulfed within the range of the zone. The carrier is not fast enough, the leader closes his eyes as he sees the wall approach the vehicle, inches away. When he opens his eyes, the carrier had stopped. Its computer quiet and silent, the silver that was just with him moments ago is now a corpse, slumping down on the bench inside the truck, and the wall merely inches from his seat.\nHe looks ahead, at the machine, who is standing still, unmoving. He sighs as he speaks into his comm.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "SERELON STRIKE TEAM LEADER\nStrike team, be alert. Firewall positioned 3 km away from target…Johanson is burnt, as well as the dog.\nThe three dots begin descending on his location. When the leader focuses on his optics, they aren’t three dots, they are three heavily concentrated dots. Vehicles, carriers no doubt.\nSERELON STRIKE TEAM LEADER\nClean up coming to my location…second in command will be Lt. Beckett…",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "The leader grabs a standard issue sniper rifle as he takes aim from his location. Three unmarked ground carriers. He makes out the rim and the headlight constructions, they are THL vehicles, cheap, durable and replaceable. All hallmarks of the APR. He breathes out as the three vehicles approach the machine’s locations, a few kilometers in front of his location.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "He breathes in, then slowly breathes out as his finger squeezes the trigger, aiming directly at the driver seat of one vehicle. The gunfire rips through the air as the bullet disappears from his view. In front of his very optics, one vehicle violently flips, then as if it is defying gravity, it flies itself into another vehicle instantly. The remaining carrier stops as the APR forces pull out. The remaining forces within the two wrecked carriers also begin to crawl out.\nIt was then that he noticed. The machine is no longer at his spot.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "ARI (INTCOM)\nArgus down, you have 60 seconds before it reboots and attempts another jump.\n416\nMore than enough…\n416 smirks. One APR aims his rifle at a blur as he witnesses one troop in front of him being ripped in two by the legs, then another is punched entirely into the ground, turning into a mess of pulps. He screams as he fires in the general direction, but two APR members are moved in front of his line of fire as they are cut down by the hail of bullets.\nThe APR grunt drops the gun as he yells.\nAPR MEMBER\nJASON! MENDEZ! NO",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "He turns around as he sees another APR member trapped under the burning corpse of the now mangled together vehicles.\nAPR MEMBER\nVal, hold on.\nHe runs over as he puts his hand on the debris crushing her. He flinches back for a brief second as the burning metal burns his hand. He wraps a piece of cloth around both his palms quickly as he goes to try again. As the debris slowly lifts, he starts chuckling.\nVALERIE\nTakemura! Watch out!",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "A round comes tumbling toward the APR member as he is struck on the shoulder. His grip loosen slightly, but he screams out as he maintains it until Val crawls out finally. Takemura finally drops the debris as he recoils in pain. When he turns back, Val had already been reduced to a headless corpse against the very debris he was lifting.\nHe picks up her rifle as he looks around. On his radar, there is not a single ping alive. He drops his gun, his hand clamps together.\nTAKEMURA\nPlease…please god. Spare my life, I surrender, I have a son!",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "The blur finally materializes itself in front of him. Now he recognizes it, the shape his squad was driving toward. It looks at him with its optics. Seconds later, his peripheral vision is filled with the road rapidly approaching as he makes one final sound. A scream or maybe a whimper as his head is turned into a splatter on the asphalt.\nARI (INTCOM)\nHe…They surrendered. You didn’t have to do it.\n416 doesn’t say anything, he then touches the radio on his chest. He looks at his HUD, the clock reads 27 seconds remaining.\n416\nTin man reporting, preliminary force wiped out.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "SERELON STRIKE TEAM LEADER\nUh…fuck. What the fuck is this thing?\nThe air crackles with fire as 416 slowly walks away from the burning wreck. He picks up a corpse as he connects his neural link to it.\nHERACLES II\nThought I lost you for a moment. Good job. Downloading and forging their sig now.\n416\nForge another for the insect in the truck.\nHERACLES II\nCopy.\nAs the Argus winds back up, the wall pulses in and out again. The leader closes his eyes as he is engulfed by the wall. When he opens them, he is fine.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "SERELON STRIKE TEAM LEADER\nCode 3385, identification, Major Eirikssen, 794267. We have acquired APR digital signatures. They sent 3 carriers as a clean up unit, but they were…dismantled by the asset.\nHe speaks as the machine steps back into the truck. He pauses for a moment, maybe surprised that the tin man is back so quick.\nMAJOR EIRIKSSEN\nIndependent asset and me are heading further in, hang back and start rolling in 45 minutes. APR will take a minute to register that their clean up crew is missing.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "416’s eyes light up as he connects with the carrier’s computer. It stirs itself to life as the truck begins driving.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "*EXT. HELIOS BAY. DAY*\nThe SGV pulls up to a checkpoint as a lone guard walks up with a rifle by his chest. He waves his hand as the window of the seat rolls down.\nAPR GUARD\nWhat is this? Who are you?\nMAJOR EIRIKSSEN\nLucas Reyes expects me.\nThe major now in a scavenged APR uniform. He sits in the driver’s seat, 416 nowhere in sight.\nAPR GUARD\nNever heard of ‘im\nMAJOR EIRIKSSEN\nUh…he works under Colonel Rustin. Do you want to take it up to the Colonel?\nThe guard looks a little nervous. He taps on the comm device on his chest.\nAPR GUARD\nOne…",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "The major looks back at 416, hidden in the cargo compartment. 416 speaks quietly.\n416\nTakemura.\nMAJOR EIRIKSSEN\nTakemura.\nAPR GUARD\nOne Takemura passing by, claiming to be here for Lucas Reyes.\nThe guard’s expression changes, he looks at the major quizzically. He taps his gun as he looks at the major.\nAPR GUARD\nDid you mean Hendrick Reyes?\nThe major nods with a smile.\nAPR GUARD\nGo on.\nThe major rolls up the window as the vehicle stirs awake. It drives past the checkpoint and heads straight into the sight of the bay. In the back, 416 knocks on the wall.\n416\nHendrick…Reyes, who?",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "MAJOR EIRIKSSEN\nNobody, or somebody. I don’t know.\nThe major chuckles as his hand steadies on the wheel.\nMAJOR EIRIKSSEN\nThese bastards got names like a fucking checklist. Just shout whatever name in a terrorist compound and an APR maggot will turn his head.\n416 doesn’t say anything, he stays silent as the carrier rolls by the landscape.\nMAJOR EIRIKSSEN\nDelivery outgoing in…2 hours.\nHe checks his clock within his retinas. His voice turns procedural.\nMAJOR EIRIKSSEN\nSit tight, and remember. You are our fallback, don't get trigger happy like you did. Only take a sec.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "They roll into the bay as a sprawling operation reveals itself. The station is enormous, carved into the side of an ocean cliff. Industrial infrastructures jutting out like a parasite on the scenic landscape. Shuttles and ships dot the staging docks. Countless men and women flood the area as the truck stops. On the side, a sprawling black market breathes as goods are spread all over the ground on top of tarps. Weapons, frames, neural chips, cybernetics, anything high end and likely stolen ends up here.\nMAJOR EIRIKSSEN\nSit tight, Tin man.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "The major steps down as he looks around before heading straight into the direction of the shipment cargo.\nSEARCOM\n27% of the environment constructed.\nHis eyes scan around, taking long looks at security posts, cameras, patrol routes and signal towers. The major spots an unusual shaped tower amongst the rest. Its base is thicker and from within its walls, the tower emits a different electromagnetic signal.\nHe walks toward it as a fence surrounding it comes into view, heavily guarded, restricted APR personnels only. Jackpot, he thought. This must be where they keeps their firewall system.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "APR GUARD\nYo little man, market that way, this here is off limit.\nA burly guard, kitted with personal augment speaks to him. His size alone is as big as a framed up silver.\nMAJOR EIRIKSSEN\nTakemura, from the Envoy Unit, I need to double check with our firewall system over a strange reading past the border. Our team went there but couldn’t find anything.\nAPR GUARD\nOkay, where’s your permit?\nMAJOR EIRIKSSEN\nPermit? I am from the Envoy Unit!\nThe guard eyes the major up and down. His optics twitch slightly as he leans back.\nAPR GUARD\nChecks out, but you’d still need a permit, little man.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "MAJOR EIRIKSSEN\nFine! Can’t fucking escape bureaucracy !\nThe major turns away as he takes another look at the tower.\nSEARCOM\nMapping completed!\nThe zone, now fully constructed in three dimensions, pops up in front of his optics, detailed patrol patterns and time are laid out, along with security hotspots and blindspots.\nMAJOR EIRIKSSEN\nStatus report, scouting information acquired, sending local teams the maps now. Do you read me, Tin Man? Secondary objective found, let’s get a move.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "A long beat occurs. His team sends him a green signal, they have obtained his message and are now planning their approach, but the machine doesn’t answer. From behind him, he can hear the sound of distant chatters.\nAPR GUARD\n(something unintelligible)...Captain Reyes...Takemura, he wanted to (unintelligible)\nHENDRICK REYES\nHaven’t heard anything from their unit yet, radio all dark…Where did you say he was?\nThe major can feel the finger pointed at him as he hurriedly walks away into the crowd of the market, away from the conversation. He can hear someone shouting the name “Takemura” behind him.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "MAJOR EIRIKSSEN\nTin Man, respond, time to move! Tin Man!\nHe approaches their carrier as a few people turn their head and look his way. He knocks on the side before opening the door. Just then, two men place their hands on his shoulder.\nHENDRICK REYES\nTakemura…hey!…You’re not…Who are you?\nThe major slides the door outward as the inside of the carrier exists nothing but the void the machine left behind. Where the fuck is he? The major asks himself as he turns to the men. A few sweat beat down across his forehead as he looks them in the eyes.",
+   "sounds": [
+    {
+     "file": "sounds/sea-waves.wav",
+     "vol": 0.35
+    }
+   ]
+  },
+  {
+   "text": "*INT. HELIOS MARKET. DAY*\nThe whole thing is situated inside of an old, used to be, extravagant space vessel. What was once a colonial ship, now a dried up corpse hosting new life within its intestine. The sound of the market is mixed with the sound of creaking metals and wind rustling against the side of the hull.",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "The inside of the market is made of a sprawling network, filled with tents and stands. As 416 walks amongst them, a few can be heard haggling over a piece of good. He moves under a dark green cloak that was a poor attempt at fitting in. Odd shapes poke out and from within under the soft cloth. 416 is hard to not notice. In the corner of his optics, a small bar, laid out on the side of the walkway.\nA particular bar patron notices the machine as the mysterious man sips his drink.",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "A tent catches 416’s optics. A number of frame parts are laid out on a table, so many that they spill down on the floor below. A girl sits on the pile in the middle, she’s holding a book. Noticing the shadow, she pulls the book down as her eyes briefly light up..\nFRAME VENDOR\nLook at you! Nice frame, what you looking for, Hercules?\nThe girl flashes him a look, one a daft man might mistake for simple friendliness, 416 doesn’t say anything. He stares at the pile, his optics whirls in and out.\nFRAME VENDOR\nJust browsing? If ya need anything, just ask!",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "She says as she leans back into the pile, pulling back up her book. She scoffs softly, as if she is disappointed. 416 picks up a radar unit, his optics read the spec printed on the tech with subdermal writing.\nINTCOM\nHostile reading increases 35 degree, refresh rate of 1/8500, at a 1.8 accuracy.\nHe picks up another radar unit. This one would mount where his turret is currently sitting.\nINTCOM\n17 degrees, 1/16500, 4.5.\nMYSTERIOUS MAN\nWell well well, what is Rehoboam’s most expensive war asset doing in a place like this?",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.12
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "416 turns, the mysterious man already standing beside him. 416’s radar can’t quite pick up what the speaker is packing, some sort of strong encryption protects his augment. An arm dealer perhaps, or a corp spy, or just an APR member gauging an interesting asset that operates near their turf.\nMaybe the mysterious man catches his interest, or maybe he just wants to test something. 416’s optics twirls as a few lines of consoles open up. Zombies engaging the digital firewall, hands scratching against the SSH ports, FTP all locked.\nMYSTERIOUS MAN\nSee something you like, big boy?",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "416 turns away without a word. His hand picks up another unit.\nINTCOM\n85 degrees, 1/4500, 2.8. 50 degrees, 1/12500, 1.8.\nMYSTERIOUS MAN\nSo rude! You caused quite a stir with your recent performance…\n416 pauses, he turns and looks at the figure properly. He’s wearing a clean suit, his hair combed to the side. A man who doesn’t belong in this flea market dump of the world.\nMYSTERIOUS MAN\nSo interesting to see you here, didn’t expect to come across the fabled machine behind Serelon’s internal whispers in an APR stronghold.",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.12
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "The machine looks at the mysterious man for a long moment. He doesn’t say anything. The mysterious man chuckles as he pats the tin man on the shoulder.\nMYSTERIOUS MAN\nWell, if you ever wanted to fight for something better than Serelon, give me a call.\nThe mysterious man winks as he smiles and 416 receives a new contact information within his directory. The suited man turns and walks away as he murmurs something to himself.\nMYSTERIOUS MAN\nMy my, so fancy. A bespoke OS…\nThe mysterious man disappears into the crowd as 416’s optics lose tracking of him.",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "FRAME VENDOR\nSo, interested in radar? We got a few-\nThe girl is cut off when 416 suddenly jerks his head. Someone had placed a hand on his shoulder. When tin man turns around, he finds the major, bloodied, though not his.\nMAJOR EIRIKSSEN\nWhat the fuck are you doing, Jason? We have to go, now!\nFRAME VENDOR\nOh, sure-\nShe speaks as 416 is beckoned away by the major. The two of them leave into the mouth of the crowd, leading toward the entrance of the shuttle. Eleven little dots move in a strange pattern on the machine’s radar.\nThe machine looks down at the major.",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "MAJOR EIRIKSSEN\nTwo lead in the carrier, beta 75 of point, about 650 away.\nThe major slips 416 a little drive as 416 socks it in his wrist. The Argus system, housed in a reinforced relay tower. The data center at the base, and the transmitter at the top. Guards change round about every 4 hours based on the prints left behind on the ground, a large trail leads in and out of the compound, something large and heavy. Its trail leaves a visible mark of cracked concrete.",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "MAJOR EIRIKSSEN\nNo idea on the big asset, either a combat savaran, or a framed up personnel. It makes no sense to have something big guarding the Argus tower…unless they know we are coming…\nA few shops close their tent around them as the patrons leave the shuttle group by group, clogging up the exit. People gather around the gate like cattle as the APR guards wave them through.\nMAJOR EIRIKSSEN\nWe aren’t burnt yet…but they know something is up…\nThey walk toward the exit as a guard stops them. The woman scans them up and down, before she holds out her hand, halting them.",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "APR MARKET GUARD\nYou guys are from this morning’s Envoy? Colonel Rustin has been requesting you…or your unit.\nMAJOR EIRIKSSEN\nIs this an emergency?\nAPR MARKET GUARD\nDon’t even ask, just go. Don’t make a bad impression on your first day.\nThe major darts 416 a look, but the silver can’t read anything from the machine. He nods at the guard as they walk past her.\nMAJOR EIRIKSSEN\nThanks for the heads up.\nAPR MARKET GUARD\nCentral said they saw your guys' pings disappear, thought you met hostile.\nMAJOR EIRIKSSEN\nSome problem at the border of our…",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "APR MARKET GUARD\nThe Stygian border? Yeah, being so close to the void has been giving our electronics some problems.\nMAJOR EIRIKSSEN\nStygian border yeah, it’s real imposing from the optic view.\n416 looks at the major, his face is slightly unreadable, yet the major can feel animosity from his gaze, or maybe annoyance, or nothing.\nMAJOR EIRIKSSEN\nWhy don’t you go get our gear to the barrack from our carrier…Jason. I’ll be there in a minute.\nAPR GUARD GUARD\nYeah, they have been testing that thing over the northern region, but with the void being so close, they didn’t expect…",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "Their conversation fades out as 416 approaches their carrier, hastily parked inside a small zone by the Argus tower unit. He pings Serelon's server as the clock reads 12 minutes until confirmation. A combat Savaran Aerial Carrier has arrived at their local staging ground, about 200 kilometers out from their location. A worst case answer, shoot down the tower, then the troop moves in.",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "He notices the log has changed, the firewall zone now more specific in its range, and a tag sits above, “The Stygian Border” with its root being centered around “Chiron IV”. The carrier door slides open, and the scanner pings two names off the bodies inside, “Hendrick Reyes” and “Yoichi Kajiwara”. Each has a clean slice across the throat, deep enough to sever the windpipe and destroy the larynx.\nINTCOM\nMOVEMENT MATCHING BIG ASSET!",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.12
+    },
+    {
+     "file": "sounds/comms-crackle.wav",
+     "vol": 0.1
+    }
+   ]
+  },
+  {
+   "text": "416 turns as he slams the door shut. From within the tower, out walks a giant mechanized automaton. It stands at least five stories tall, with guns and cannons on both of its arms the size of 416 himself. Its jets placed on the calves of its legs stirs awake as it begins to glide forward, cracking the ground in its wake. It shoots off toward where he and the major drove in from. Air crackles as its jet engine deafens everyone nearby.\nMAJOR EIRIKSSEN\nA fucking Auto? Shit…\nThe major steps next to 416, his eyes already recording and sending his team the information.\n416\nWhat is that?",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.12
+    }
+   ]
+  },
+  {
+   "text": "MAJOR EIRIKSSEN\nYou don’t know? It’s a god damn mechanized automaton…but this one…almost as big as a Talos…\n416 looks at the wake the automaton left for a long moment. The Major hurriedly composes a communication message to his team inside his neural computer. 416 turns as he is about to open the carrier driver’s door.\nSECRETARY\nLt. Hoshida, Lt. Krest, I received news that you are on site, the colonel requested your summon, now.\nThe secretary appeared out of nowhere right when the two men were about to get ready. It seems the job has to momentarily wait.",
+   "sounds": [
+    {
+     "file": "sounds/crowd-street.wav",
+     "vol": 0.5
+    },
+    {
+     "file": "sounds/wind-dust.wav",
+     "vol": 0.12
+    }
+   ]
+  }
+ ]
+}
